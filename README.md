@@ -1,4 +1,4 @@
-# usom-ioc-sync
+# Usom-IOC-sync
 
 Automatic USOM IOC collector and updater.
 
