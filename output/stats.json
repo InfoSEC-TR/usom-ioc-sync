@@ -1,0 +1,31 @@
+{
+  "last_update_utc": "2026-05-21T10:04:55.477091+00:00",
+  "per_page": 1000,
+  "max_pages": null,
+  "results": [
+    {
+      "type": "ip",
+      "excel": "usom_ip.xlsx",
+      "fetched_records": 14293,
+      "new_records": 14293,
+      "api_total_count": 14293,
+      "api_page_count": 15
+    },
+    {
+      "type": "domain",
+      "excel": "usom_domain.xlsx",
+      "fetched_records": 452034,
+      "new_records": 452034,
+      "api_total_count": 452034,
+      "api_page_count": 453
+    },
+    {
+      "type": "url",
+      "excel": "usom_url.xlsx",
+      "fetched_records": 6927,
+      "new_records": 6927,
+      "api_total_count": 6927,
+      "api_page_count": 7
+    }
+  ]
+}
