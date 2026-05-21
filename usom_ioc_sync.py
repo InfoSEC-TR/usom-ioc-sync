@@ -8,6 +8,7 @@ from datetime import datetime, timezone
 API_URL = "https://siberguvenlik.gov.tr/api/address/index"
 
 OUTPUT_DIR = "output"
+STATE_FILE = os.path.join(OUTPUT_DIR, "state.json")
 STATS_FILE = os.path.join(OUTPUT_DIR, "stats.json")
 
 IOC_TYPES = {
@@ -17,9 +18,9 @@ IOC_TYPES = {
 }
 
 PER_PAGE = 1000
-MAX_PAGES = None
 MAX_RETRIES = 5
 TIMEOUT = 30
+STOP_AFTER_KNOWN = 40
 
 HEADERS = {
     "User-Agent": "usom-ioc-sync/1.0",
@@ -29,6 +30,28 @@ HEADERS = {
 
 def ensure_output_dir():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+
+def load_state():
+    if not os.path.exists(STATE_FILE):
+        return {ioc_type: 0 for ioc_type in IOC_TYPES}
+
+    try:
+        with open(STATE_FILE, "r", encoding="utf-8") as f:
+            state = json.load(f)
+
+        for ioc_type in IOC_TYPES:
+            state.setdefault(ioc_type, 0)
+
+        return state
+
+    except Exception:
+        return {ioc_type: 0 for ioc_type in IOC_TYPES}
+
+
+def save_state(state):
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump(state, f, indent=2, ensure_ascii=False)
 
 
 def excel_path(filename):
@@ -97,37 +120,6 @@ def fetch_page(session, ioc_type, page):
     raise RuntimeError(f"{ioc_type} page={page} alınamadı")
 
 
-def fetch_iocs(ioc_type):
-    session = requests.Session()
-
-    first = fetch_page(session, ioc_type, 1)
-
-    page_count = first.get("pageCount", 1)
-    total_count = first.get("totalCount", 0)
-
-    page_limit = page_count if MAX_PAGES is None else min(page_count, MAX_PAGES)
-
-    print(f"[+] {ioc_type} | total={total_count} | pageCount={page_count} | limit={page_limit}")
-
-    collected = []
-    collected.extend(first.get("models", []))
-
-    for page in range(2, page_limit + 1):
-        data = fetch_page(session, ioc_type, page)
-        models = data.get("models", [])
-
-        if not models:
-            break
-
-        collected.extend(models)
-
-        print(f"[+] {ioc_type} | page={page} | records={len(models)}")
-
-        time.sleep(1)
-
-    return collected, total_count, page_count
-
-
 def normalize_ioc(value):
     if not value:
         return ""
@@ -135,12 +127,66 @@ def normalize_ioc(value):
     return str(value).strip().lower()
 
 
-def process_type(ioc_type, filename):
+def fetch_delta_iocs(ioc_type, max_known_id):
+    session = requests.Session()
+
+    page = 1
+    collected = []
+    new_max_id = max_known_id
+    consecutive_known = 0
+
+    while True:
+        data = fetch_page(session, ioc_type, page)
+
+        page_count = data.get("pageCount", 1)
+        total_count = data.get("totalCount", 0)
+        models = data.get("models", [])
+
+        print(f"[+] {ioc_type} | page={page}/{page_count} | records={len(models)} | max_known_id={max_known_id}")
+
+        if not models:
+            break
+
+        for item in models:
+            try:
+                item_id = int(item.get("id"))
+            except Exception:
+                continue
+
+            if item_id > new_max_id:
+                new_max_id = item_id
+
+            if max_known_id == 0:
+                collected.append(item)
+                continue
+
+            if item_id <= max_known_id:
+                consecutive_known += 1
+            else:
+                consecutive_known = 0
+                collected.append(item)
+
+        if max_known_id != 0 and consecutive_known >= STOP_AFTER_KNOWN:
+            print(f"[+] {ioc_type} | bilinen kayıtlara ulaşıldı, duruluyor")
+            break
+
+        if page >= page_count:
+            break
+
+        page += 1
+        time.sleep(1)
+
+    return collected, new_max_id, total_count
+
+
+def process_type(ioc_type, filename, state):
     path = excel_path(filename)
+
+    max_known_id = int(state.get(ioc_type, 0))
 
     existing_iocs = load_existing_iocs(path)
 
-    records, total_count, page_count = fetch_iocs(ioc_type)
+    records, new_max_id, total_count = fetch_delta_iocs(ioc_type, max_known_id)
 
     new_rows = []
 
@@ -168,21 +214,25 @@ def process_type(ioc_type, filename):
     if new_rows:
         save_excel(path, new_rows)
 
+    state[ioc_type] = max(new_max_id, max_known_id)
+
     return {
         "type": ioc_type,
         "excel": filename,
+        "previous_max_id": max_known_id,
+        "new_max_id": state[ioc_type],
         "fetched_records": len(records),
         "new_records": len(new_rows),
-        "api_total_count": total_count,
-        "api_page_count": page_count
+        "api_total_count": total_count
     }
 
 
-def write_stats(results):
+def write_stats(results, state):
     stats = {
         "last_update_utc": datetime.now(timezone.utc).isoformat(),
         "per_page": PER_PAGE,
-        "max_pages": MAX_PAGES,
+        "stop_after_known": STOP_AFTER_KNOWN,
+        "state": state,
         "results": results
     }
 
@@ -193,16 +243,17 @@ def write_stats(results):
 def main():
     ensure_output_dir()
 
+    state = load_state()
     results = []
 
     for ioc_type, filename in IOC_TYPES.items():
         print(f"\n[+] İşleniyor: {ioc_type}")
 
         try:
-            result = process_type(ioc_type, filename)
+            result = process_type(ioc_type, filename, state)
             results.append(result)
 
-            print(f"[+] {ioc_type} tamamlandı | yeni={result['new_records']}")
+            print(f"[+] {ioc_type} tamamlandı | yeni={result['new_records']} | max_id={result['new_max_id']}")
 
         except Exception as e:
             print(f"[-] {ioc_type} hata: {e}")
@@ -211,7 +262,8 @@ def main():
                 "error": str(e)
             })
 
-    write_stats(results)
+    save_state(state)
+    write_stats(results, state)
 
 
 if __name__ == "__main__":
