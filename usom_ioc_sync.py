@@ -12,9 +12,9 @@ STATE_FILE = os.path.join(OUTPUT_DIR, "state.json")
 STATS_FILE = os.path.join(OUTPUT_DIR, "stats.json")
 
 IOC_TYPES = {
-    "ip": "usom_ip.xlsx",
-    "domain": "usom_domain.xlsx",
-    "url": "usom_url.xlsx"
+    "ip": "usom_ip",
+    "domain": "usom_domain",
+    "url": "usom_url"
 }
 
 PER_PAGE = 1000
@@ -44,7 +44,6 @@ def load_state():
             state.setdefault(ioc_type, 0)
 
         return state
-
     except Exception:
         return {ioc_type: 0 for ioc_type in IOC_TYPES}
 
@@ -54,37 +53,31 @@ def save_state(state):
         json.dump(state, f, indent=2, ensure_ascii=False)
 
 
-def excel_path(filename):
-    return os.path.join(OUTPUT_DIR, filename)
+def output_path(base_name, extension):
+    return os.path.join(OUTPUT_DIR, f"{base_name}.{extension}")
 
 
-def load_existing_iocs(path):
-    if not os.path.exists(path):
+def load_existing_iocs(csv_path):
+    if not os.path.exists(csv_path):
         return set()
 
     try:
-        df = pd.read_excel(path)
+        df = pd.read_csv(csv_path)
 
         if "IOC" not in df.columns:
             return set()
 
         return set(df["IOC"].astype(str).str.strip().str.lower().tolist())
-
     except Exception as e:
-        print(f"[-] Excel okunamadı: {path} | {e}")
+        print(f"[-] CSV okunamadı: {csv_path} | {e}")
         return set()
 
 
-def save_excel(path, rows):
-    if os.path.exists(path):
-        old_df = pd.read_excel(path)
-        new_df = pd.DataFrame(rows)
-        final_df = pd.concat([old_df, new_df], ignore_index=True)
-    else:
-        final_df = pd.DataFrame(rows)
+def normalize_ioc(value):
+    if not value:
+        return ""
 
-    final_df.drop_duplicates(subset=["IOC"], inplace=True)
-    final_df.to_excel(path, index=False)
+    return str(value).strip().lower()
 
 
 def fetch_page(session, ioc_type, page):
@@ -120,13 +113,6 @@ def fetch_page(session, ioc_type, page):
     raise RuntimeError(f"{ioc_type} page={page} alınamadı")
 
 
-def normalize_ioc(value):
-    if not value:
-        return ""
-
-    return str(value).strip().lower()
-
-
 def fetch_delta_iocs(ioc_type, max_known_id):
     session = requests.Session()
 
@@ -134,6 +120,7 @@ def fetch_delta_iocs(ioc_type, max_known_id):
     collected = []
     new_max_id = max_known_id
     consecutive_known = 0
+    total_count = 0
 
     while True:
         data = fetch_page(session, ioc_type, page)
@@ -142,7 +129,10 @@ def fetch_delta_iocs(ioc_type, max_known_id):
         total_count = data.get("totalCount", 0)
         models = data.get("models", [])
 
-        print(f"[+] {ioc_type} | page={page}/{page_count} | records={len(models)} | max_known_id={max_known_id}")
+        print(
+            f"[+] {ioc_type} | page={page}/{page_count} | "
+            f"records={len(models)} | max_known_id={max_known_id}"
+        )
 
         if not models:
             break
@@ -179,19 +169,63 @@ def fetch_delta_iocs(ioc_type, max_known_id):
     return collected, new_max_id, total_count
 
 
-def process_type(ioc_type, filename, state):
-    path = excel_path(filename)
+def record_to_row(item):
+    return {
+        "IOC": normalize_ioc(item.get("url")),
+        "Type": item.get("type"),
+        "Source": item.get("source"),
+        "Description": item.get("desc"),
+        "Criticality": item.get("criticality_level"),
+        "ConnectionType": item.get("connectiontype"),
+        "USOM_ID": item.get("id"),
+        "Date": item.get("date"),
+        "AddedAt_UTC": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+    }
+
+
+def save_outputs(base_name, rows):
+    csv_path = output_path(base_name, "csv")
+    txt_path = output_path(base_name, "txt")
+    json_path = output_path(base_name, "json")
+
+    new_df = pd.DataFrame(rows)
+
+    if os.path.exists(csv_path):
+        old_df = pd.read_csv(csv_path)
+        final_df = pd.concat([old_df, new_df], ignore_index=True)
+    else:
+        final_df = new_df
+
+    final_df.drop_duplicates(subset=["IOC"], inplace=True)
+    final_df.sort_values(by=["USOM_ID"], ascending=False, inplace=True, na_position="last")
+
+    final_df.to_csv(csv_path, index=False, encoding="utf-8")
+
+    iocs = final_df["IOC"].dropna().astype(str).str.strip()
+    iocs = sorted(set(ioc for ioc in iocs if ioc))
+
+    with open(txt_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(iocs) + ("\n" if iocs else ""))
+
+    records = final_df.to_dict(orient="records")
+
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(records, f, indent=2, ensure_ascii=False)
+
+
+def process_type(ioc_type, base_name, state):
+    csv_path = output_path(base_name, "csv")
 
     max_known_id = int(state.get(ioc_type, 0))
-
-    existing_iocs = load_existing_iocs(path)
+    existing_iocs = load_existing_iocs(csv_path)
 
     records, new_max_id, total_count = fetch_delta_iocs(ioc_type, max_known_id)
 
     new_rows = []
 
     for item in records:
-        ioc = normalize_ioc(item.get("url"))
+        row = record_to_row(item)
+        ioc = row["IOC"]
 
         if not ioc:
             continue
@@ -199,26 +233,16 @@ def process_type(ioc_type, filename, state):
         if ioc in existing_iocs:
             continue
 
-        new_rows.append({
-            "IOC": ioc,
-            "Type": item.get("type"),
-            "Source": item.get("source"),
-            "Description": item.get("desc"),
-            "Criticality": item.get("criticality_level"),
-            "ConnectionType": item.get("connectiontype"),
-            "USOM_ID": item.get("id"),
-            "Date": item.get("date"),
-            "AddedAt_UTC": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
-        })
+        new_rows.append(row)
 
     if new_rows:
-        save_excel(path, new_rows)
+        save_outputs(base_name, new_rows)
 
     state[ioc_type] = max(new_max_id, max_known_id)
 
     return {
         "type": ioc_type,
-        "excel": filename,
+        "base_name": base_name,
         "previous_max_id": max_known_id,
         "new_max_id": state[ioc_type],
         "fetched_records": len(records),
@@ -246,14 +270,18 @@ def main():
     state = load_state()
     results = []
 
-    for ioc_type, filename in IOC_TYPES.items():
+    for ioc_type, base_name in IOC_TYPES.items():
         print(f"\n[+] İşleniyor: {ioc_type}")
 
         try:
-            result = process_type(ioc_type, filename, state)
+            result = process_type(ioc_type, base_name, state)
             results.append(result)
 
-            print(f"[+] {ioc_type} tamamlandı | yeni={result['new_records']} | max_id={result['new_max_id']}")
+            print(
+                f"[+] {ioc_type} tamamlandı | "
+                f"yeni={result['new_records']} | "
+                f"max_id={result['new_max_id']}"
+            )
 
         except Exception as e:
             print(f"[-] {ioc_type} hata: {e}")
