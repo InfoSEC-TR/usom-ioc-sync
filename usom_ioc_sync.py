@@ -18,6 +18,7 @@ IOC_TYPES = {
 }
 
 PER_PAGE = 1000
+INITIAL_BOOTSTRAP_PAGES = 5
 MAX_RETRIES = 5
 TIMEOUT = 30
 STOP_AFTER_KNOWN = 40
@@ -121,6 +122,7 @@ def fetch_delta_iocs(ioc_type, max_known_id):
     new_max_id = max_known_id
     consecutive_known = 0
     total_count = 0
+    page_count = 1
 
     while True:
         data = fetch_page(session, ioc_type, page)
@@ -129,9 +131,15 @@ def fetch_delta_iocs(ioc_type, max_known_id):
         total_count = data.get("totalCount", 0)
         models = data.get("models", [])
 
+        if max_known_id == 0:
+            page_limit = min(page_count, INITIAL_BOOTSTRAP_PAGES)
+        else:
+            page_limit = page_count
+
         print(
             f"[+] {ioc_type} | page={page}/{page_count} | "
-            f"records={len(models)} | max_known_id={max_known_id}"
+            f"records={len(models)} | max_known_id={max_known_id} | "
+            f"page_limit={page_limit}"
         )
 
         if not models:
@@ -160,13 +168,13 @@ def fetch_delta_iocs(ioc_type, max_known_id):
             print(f"[+] {ioc_type} | bilinen kayıtlara ulaşıldı, duruluyor")
             break
 
-        if page >= page_count:
+        if page >= page_limit:
             break
 
         page += 1
         time.sleep(1)
 
-    return collected, new_max_id, total_count
+    return collected, new_max_id, total_count, page_count
 
 
 def record_to_row(item):
@@ -186,7 +194,6 @@ def record_to_row(item):
 def save_outputs(base_name, rows):
     csv_path = output_path(base_name, "csv")
     txt_path = output_path(base_name, "txt")
-    json_path = output_path(base_name, "json")
 
     new_df = pd.DataFrame(rows)
 
@@ -207,11 +214,6 @@ def save_outputs(base_name, rows):
     with open(txt_path, "w", encoding="utf-8") as f:
         f.write("\n".join(iocs) + ("\n" if iocs else ""))
 
-    records = final_df.to_dict(orient="records")
-
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(records, f, indent=2, ensure_ascii=False)
-
 
 def process_type(ioc_type, base_name, state):
     csv_path = output_path(base_name, "csv")
@@ -219,7 +221,7 @@ def process_type(ioc_type, base_name, state):
     max_known_id = int(state.get(ioc_type, 0))
     existing_iocs = load_existing_iocs(csv_path)
 
-    records, new_max_id, total_count = fetch_delta_iocs(ioc_type, max_known_id)
+    records, new_max_id, total_count, page_count = fetch_delta_iocs(ioc_type, max_known_id)
 
     new_rows = []
 
@@ -247,7 +249,9 @@ def process_type(ioc_type, base_name, state):
         "new_max_id": state[ioc_type],
         "fetched_records": len(records),
         "new_records": len(new_rows),
-        "api_total_count": total_count
+        "api_total_count": total_count,
+        "api_page_count": page_count,
+        "initial_bootstrap_pages": INITIAL_BOOTSTRAP_PAGES
     }
 
 
@@ -255,6 +259,7 @@ def write_stats(results, state):
     stats = {
         "last_update_utc": datetime.now(timezone.utc).isoformat(),
         "per_page": PER_PAGE,
+        "initial_bootstrap_pages": INITIAL_BOOTSTRAP_PAGES,
         "stop_after_known": STOP_AFTER_KNOWN,
         "state": state,
         "results": results
