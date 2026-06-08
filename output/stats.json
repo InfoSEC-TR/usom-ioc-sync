@@ -4,7 +4,7 @@
   "initial_bootstrap_pages": 5,
   "stop_after_known": 40,
   "state": {
-    "ip": 1124442,
+    "ip": 0,
     "domain": 1124484,
     "url": 851416
   },
@@ -12,10 +12,10 @@
     {
       "type": "ip",
       "base_name": "usom_ip",
-      "previous_max_id": 1123910,
-      "new_max_id": 1124442,
-      "fetched_records": 2,
-      "new_records": 2,
+      "previous_max_id": 0,
+      "new_max_id": 0,
+      "fetched_records": 0,
+      "new_records": 0,
       "api_total_count": 14429,
       "api_page_count": 15,
       "initial_bootstrap_pages": 5
