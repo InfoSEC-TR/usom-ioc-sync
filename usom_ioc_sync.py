@@ -211,6 +211,12 @@ def save_outputs(base_name, rows):
     iocs = final_df["IOC"].dropna().astype(str).str.strip()
     iocs = sorted(set(ioc for ioc in iocs if ioc))
 
+    if base_name == "usom_ip":
+        iocs = [
+            ioc if "/" in ioc else f"{ioc}/32"
+            for ioc in iocs
+        ]
+
     with open(txt_path, "w", encoding="utf-8") as f:
         f.write("\n".join(iocs) + ("\n" if iocs else ""))
 
