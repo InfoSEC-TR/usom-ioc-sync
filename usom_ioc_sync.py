@@ -179,15 +179,7 @@ def fetch_delta_iocs(ioc_type, max_known_id):
 
 def record_to_row(item):
     return {
-        "IOC": normalize_ioc(item.get("url")),
-        "Type": item.get("type"),
-        "Source": item.get("source"),
-        "Description": item.get("desc"),
-        "Criticality": item.get("criticality_level"),
-        "ConnectionType": item.get("connectiontype"),
-        "USOM_ID": item.get("id"),
-        "Date": item.get("date"),
-        "AddedAt_UTC": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+        "IOC": normalize_ioc(item.get("url"))
     }
 
 
@@ -204,18 +196,25 @@ def save_outputs(base_name, rows):
         final_df = new_df
 
     final_df.drop_duplicates(subset=["IOC"], inplace=True)
-    final_df.sort_values(by=["USOM_ID"], ascending=False, inplace=True, na_position="last")
 
     final_df.to_csv(csv_path, index=False, encoding="utf-8")
 
-    iocs = final_df["IOC"].dropna().astype(str).str.strip()
-    iocs = sorted(set(ioc for ioc in iocs if ioc))
+    iocs = (
+        final_df["IOC"]
+        .dropna()
+        .astype(str)
+        .str.strip()
+        .unique()
+        .tolist()
+    )
 
     if base_name == "usom_ip":
         iocs = [
             ioc if "/" in ioc else f"{ioc}/32"
             for ioc in iocs
         ]
+
+    iocs.sort()
 
     with open(txt_path, "w", encoding="utf-8") as f:
         f.write("\n".join(iocs) + ("\n" if iocs else ""))
