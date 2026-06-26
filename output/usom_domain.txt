@@ -39,6 +39,7 @@
 11110210221552580.gleeze.com
 11111122222222233333333333.duckdns.org
 11114141414.duckdns.org
+11130059322882.webredirect.org
 111300593882.ooguy.com
 112112112.click
 1123344225566112.duckdns.org
@@ -56,6 +57,7 @@
 1234garanti.duckdns.org
 124959300023.duckdns.org
 1253452324124.xyz
+12545589989990893.duckdns.org
 1255665988451698992.duckdns.org
 1255665988451698993.duckdns.org
 12mayistasiparisler.cloud
@@ -316,6 +318,7 @@
 97896986.net
 9848956489.cloud
 999000044444.duckdns.org
+99903030x332zww1.duckdns.org
 999991001002026.duckdns.org
 9c743b80-b.b-cdn.net
 9dd9d88d.blogspot.com
@@ -1982,6 +1985,7 @@ dijital-zirkampanyalar.com
 dijitalacentasorgulama.org
 dijitalbasvurukanallarim.sbs
 dijitalbasvurukatilimi.sbs
+dijitalbilgilendirmeler.xyz
 dijitalbilgilendirmelerrim.duckdns.org
 dijitaleis.space
 dijitaleiscep.sytes.net
@@ -2992,6 +2996,7 @@ haberler141153.shop
 haberler145.shop
 haberler17562.shop
 haberler2153212.com
+haberler231542423.online
 haberler31345653.shop
 haberler32334.shop
 haberler365guncel.com
@@ -3208,6 +3213,7 @@ herkesburdesedegelart250.click
 hernerdeyseniz.sbs
 hernerdysebolysamam.sbs
 hersey-indirimlerile.info
+herseyhalkimiziicin.sbs
 herseyherkessesylsin.sbs
 herseyherkezgusecelyenguncel65.info
 herseysznlegzzel.sbs
@@ -3216,6 +3222,7 @@ herzaman-buralardayiz.vercel.app
 hesapguvenlik.com
 hesapli.o-bilet.eu
 hesapteknik-lutgr-ekon.myonlineportal.ch
+hesobtiy1650.site
 hettinger.shop
 hewvex.click
 hfcrbt.buzz
@@ -4196,6 +4203,7 @@ kmsorgulahizli.click
 kmsorgupratik.com
 kmsorgupttavm.com
 kmsrgoalamyapalimkmhmnamt.com
+kmsrgulamagovptt.duckdns.org
 kmyenilmezi.xyz
 kmyikilmazi.xyz
 knaklanlktana.net
@@ -4322,6 +4330,7 @@ kurban-ozel.duckdns.org
 kurbanizl.duckdns.org
 kurbanpaket.icu
 kurocanseak.theworkpc.com
+kurumadli.org
 kurumsalbirkurumsal.click
 kusursuzarackiralama.com
 kuvetteaqeqassasaa.com
@@ -4883,6 +4892,7 @@ mobilservisler-29.sbs
 mobilservisler-3.sbs
 mobilservisler-49.sbs
 mobilservisorg.com
+mobilseyehatisleml.duckdns.org
 mobim-liter-y.myonlineportal.ch
 modaesra.com
 modernjourney.net
@@ -6226,6 +6236,7 @@ sahlbinden.cfd
 saidozdemir.com
 sakjhsadkjdsakhjs.site
 sakketencere.lat
+salbeniaqa.cfd
 saldsaldsaldsadpoool.net
 salealert.vu
 saleo.nicepage.io
@@ -7332,6 +7343,7 @@ toki-gov-tr-17.vercel.app
 toki-gov-tr-18.vercel.app
 toki-gov-tr-19.vercel.app
 toki-gov-tr-girisi.vercel.app
+toki-gov-tr-konut.vercel.app
 toki-gov-tr-mobil-giris.vercel.app
 toki-gov-tr-mobil.vercel.app
 toki-gov-tr.vercel.app
@@ -8365,6 +8377,7 @@ zanvexo.xyz
 zanxc23212x2.duckdns.org
 zarluna.gifts
 zartzukurt.click
+zasede-zaderete.xyz
 zaurevionyzhub.world
 zavirelqomtu.com
 zavorionix.cyou
