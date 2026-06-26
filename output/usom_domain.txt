@@ -2549,6 +2549,7 @@ garanti-bank-bireysel.ph
 garanti-bankasionline.ph
 garanti-kredi-basvuru.sbs
 garanti-kredi-basvurusu.sbs
+garanti-krediye-basvur.sbs
 garanti-subesi-giris.ph
 garanti.bb.va-tr.com
 garanti45465456465465.duckdns.org
@@ -2854,6 +2855,7 @@ haber34-resres-rscds.shop
 haber343.shop
 haber360-gdasgvsad56asdg5.shop
 haber3601tr-gdasgvsad56asdg5.shop
+haber360tc2026.shop
 haber365gun.shop
 haber366.shop
 haber3661.shop
@@ -5229,6 +5231,7 @@ ozelkmpnyaprmsynnbsvruuuu.info
 ozeltrack-lifonsi-statik.myonlineportal.ch
 ozeltrack-statik.myonlineportal.ch
 ozenay.buzz
+ozllkmpnyaprmsnnbsvr.live
 ozspfp.buzz
 p-9jluifuu.workers.dev
 p8z4t1k6r9w3.cfd
@@ -5672,8 +5675,10 @@ r7vx2m.cfd
 r99sadhashdh9asdhahsdsk2.click
 ra-backup.com
 rafa1312xsac123x123123.cfd
+rafa1sackcsakkjx123.shop
 rafa2acsjcdskjxjakk13x12.cfd
 rafa34312sascdx12311zsasd.shop
+rafa9911klasdkajx123x123.sbs
 rafaasjck1k2j31x2sadcas.cfd
 rafaaslckjk123klkxads.cfd
 rafaekkcjsakax123.cfd
@@ -6115,6 +6120,7 @@ sepet-odemesi-1988.com
 sepetetikla.online
 sepetguvende.online
 sepetimdeindirimleriyakala.com
+sepetimonay.online
 sepetimonay.site
 sepetimonay.store
 sepetinguvende.online
@@ -7051,6 +7057,9 @@ toki-gov-tr-011.vercel.app
 toki-gov-tr-012.vercel.app
 toki-gov-tr-014.vercel.app
 toki-gov-tr-016.vercel.app
+toki-gov-tr-017.vercel.app
+toki-gov-tr-018.vercel.app
+toki-gov-tr-019.vercel.app
 toki-gov-tr-1259125915.vercel.app
 toki-gov-tr-14.vercel.app
 toki-gov-tr-15.vercel.app
