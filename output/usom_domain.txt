@@ -377,6 +377,7 @@ a101mayisfirsatlari.x10.mx
 a101mayisfirsatlari.xo.je
 a10firsat.duckdns.org
 a1menkuldegerler.com
+a1o1.ile-e-islemlerim.com.tr
 a1o1aktuel.blogspot.com
 a1o1aktuel.duckdns.org
 a1o1aktuelaldin.duckdns.org
@@ -3114,6 +3115,7 @@ hakanretto.duckdns.org
 hakeiwjs727wj.com
 hakkc4b1enb1yemenedneb.life
 haksizfil.cfd
+halk-kredi.vercel.app
 halkbankfinansal.click
 halkbankparam.com.ph
 halkbilgihatti.com
@@ -3732,6 +3734,7 @@ islem-linkiniz.com
 islemkanali.com
 islemler-akbank.ph
 islemler.duckdns.org
+islemlerhizmet.online
 islemlerinizzzizz.sbs
 islemnktnasna.net
 islemnoktnasni.net
@@ -4230,6 +4233,8 @@ kmdurumanaliz.com
 kmeksper.com
 kmgecmisiniogren.com
 kmkayitpttavm.com
+kmkmsorgulamazfer.firebaseapp.com
+kmkmsorgulamazfer.web.app
 kmkmsrglumaislemlergovptttmbb.duckdns.org
 kmkmsrgulamagvvtptmt.duckdns.org
 kmkontrol.com
@@ -5570,9 +5575,11 @@ paribu.coinsec.co
 paribu.coinsecimi.co
 paribu.hesap-guvenligi.com
 paribuaraba.com
+paribuarabacekilisi.co
 paribuarabacekilisi.com
 paribuarabacekilisim.co
 paribuarabacekilisim.com
+paribuarabasansi.com
 paribucekilisim.co
 parkfauna.com
 parolas.click
@@ -5828,6 +5835,10 @@ ptt-avm-arac-km-sorgu-sist.web.app
 ptt-avm-bireysel-sepetim.com
 ptt-avm-kilo-metre-sorgula.firebaseapp.com
 ptt-avm-kilo-metre-sorgula.web.app
+ptt-avm-sorgulama.firebaseapp.com
+ptt-avm-sorgulama.web.app
+ptt-km-sorgula-ma.firebaseapp.com
+ptt-km-sorgula-ma.web.app
 ptt.avmhemenal.com
 ptt.avmsiparislerim.com
 ptt.mobilservisler-25.sbs
