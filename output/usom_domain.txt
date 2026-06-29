@@ -4224,6 +4224,8 @@ km-burdanogrenilir.firebaseapp.com
 km-burdanogrenilir.web.app
 km-durumsorgulama.firebaseapp.com
 km-durumsorgulama.web.app
+km-sorgu-avmptt.firebaseapp.com
+km-sorgu-avmptt.web.app
 km-sorgu-pttavm-platform.firebaseapp.com
 km-sorgu-pttavm-platform.web.app
 kmaraca.duckdns.org
@@ -5318,6 +5320,7 @@ oddosataninanasinibacisiniarayacagiz.net
 odeme-ilanim-48773.com
 odeme-ilanim-48774.com
 odeme-ilanim-48775.com
+odeme-ilanim-48776.com
 odeme-paribu.com
 odeme-siparisim-12568.com
 odeme-siparisim-12569.com
@@ -5835,6 +5838,8 @@ ptt-avm-arac-km-sorgu-sist.web.app
 ptt-avm-bireysel-sepetim.com
 ptt-avm-kilo-metre-sorgula.firebaseapp.com
 ptt-avm-kilo-metre-sorgula.web.app
+ptt-avm-kmsorgu.firebaseapp.com
+ptt-avm-kmsorgu.web.app
 ptt-avm-sorgulama.firebaseapp.com
 ptt-avm-sorgulama.web.app
 ptt-km-sorgula-ma.firebaseapp.com
@@ -5847,6 +5852,7 @@ ptt.satinalonlinesiparis.com
 ptt.sepetimhizlisatinal.com
 pttavm-arac-km-ogren.firebaseapp.com
 pttavm-arac-km-ogren.web.app
+pttavm-arac-sorgulama.web.app
 pttavm-araciniz-hakkinda.firebaseapp.com
 pttavm-araciniz-hakkinda.web.app
 pttavm-arackilometresorgulama.web.app
@@ -7722,6 +7728,7 @@ trmerkezigarantimenucozumlerim.online
 trpplshol.cfd
 trpttgovbw.cc
 trpttgovtuk.shop
+trsiparisbilgi.online
 trsorgu.net
 trt-zirt-tart.cfd
 trt-zirt-trr.cfd
