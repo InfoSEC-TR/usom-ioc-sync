@@ -84,6 +84,7 @@
 145455588989998998.duckdns.org
 1454555889899989993.duckdns.org
 1454555889899989994.duckdns.org
+1454555889899989995.duckdns.org
 14fd232345saf.click
 15-06-2026binancetr.duckdns.org
 1556576x6txx111.duckdns.org
@@ -970,6 +971,7 @@ avisrent.net
 avisrental.fun
 avisturkey.vercel.app
 avm-siparislerim.com
+avmbireysel.com
 avmhemenal.com
 avmkampanyasi.com
 avmsiparislerim.com
@@ -1625,6 +1627,7 @@ bosvia.org
 botmaker.digital
 bozdere-novepaki.lol
 bozkiran-furezopa.lol
+boztekin-qirevopa.lol
 bozzl.top
 bpfi.digital
 bra-inns-drops-strategic.trycloudflare.com
@@ -9087,6 +9090,7 @@ thykampanyalari.rest
 tibbtkkontrol.com
 ticaretbakanligidestek.click
 ticaretdestekleri.click
+ticaretdestekmerkezi.click
 tidio.cc
 tiklakapinda.duckdns.org
 tiklaoyna.click
