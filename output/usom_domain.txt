@@ -63,6 +63,7 @@
 12321512633.lat
 1234garanti.duckdns.org
 123jkjcsadklj12j3z1h2j3.sbs
+124566556565899091.duckdns.org
 124959300023.duckdns.org
 1253452324124.xyz
 125415554558998991.duckdns.org
@@ -1017,6 +1018,7 @@ avisrental.fun
 avisturkey.vercel.app
 avm-siparislerim.com
 avmbireysel.com
+avmbireyselsepet.com
 avmhemenal.com
 avmkampanyasi.com
 avmsiparislerim.com
@@ -4100,6 +4102,7 @@ healthtipst.info
 healvion.gifts
 hedefon.hedefonmusteripanel.com
 hedefonmusteripanel.com
+hedefonmusteripaneli.com
 hedefportfoykurumsal.com
 hediye50gb.space
 heilbronner-fruehlingssymposium.de
@@ -4457,6 +4460,7 @@ homevera.gifts
 homiun.live
 homjesterytes.duckdns.org
 hondaturkiyee.com
+honehester.duckdns.org
 honeshadrteker.duckdns.org
 honestkartes.duckdns.org
 honestly.ink
@@ -5138,6 +5142,7 @@ karaca-mode.shop
 karaca-modes.shop
 karaca-onlinemagaza.vercel.app
 karaca-store.shop
+karaca-temmuz.shop
 karaca.sbs
 karacaa.co
 karacaa.xyz
@@ -6702,6 +6707,7 @@ ntmntmltnlmamlna.net
 nudorleto.online
 nufusehliyetsorgu6.ph
 nuhugurtertese.xyz
+nurolportfoyum.com
 nuvanta.cyou
 nuvbazel.com
 nuvbazro.com
@@ -9733,6 +9739,7 @@ tr-karcas.shop
 tr-kraca.shop
 tr-porland.cfd
 tr-porland.shop
+tr-siparisonay.online
 tr-sokarca.shop
 tr-sokraca.shop
 tr-sube-isbank.ph
@@ -10288,6 +10295,7 @@ velbayoq.tr
 velbazar.gifts
 velkor.surf
 velnaro.cyou
+velnorianet.com
 velnyra.xyz
 velocitumedia.com
 velomix.gifts
@@ -11029,6 +11037,8 @@ zeloravik.shop
 zeloria.info
 zelpazro.gifts
 zelshopro.com
+zelus-checker.cfd
+zelus.icu
 zelvanto.xyz
 zelvio.cfd
 zen-tava.com
@@ -11103,6 +11113,7 @@ zirkalex.mom
 zirtajcsdcadsa1xs12.cfd
 zirtat.cfd
 zirtbastvsu.nicepage.io
+zirtiigf.cfd
 zirtolar-ggsd.cfd
 zitrkfs.cfd
 ziyaret-prise-lov.myonlineportal.ch
