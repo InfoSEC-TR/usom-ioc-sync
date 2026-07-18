@@ -1881,6 +1881,7 @@ btcturk-kripto.zendesk.com
 btcturk-kripto1781772972.zendesk.com
 btcturk-platform.com
 btcturk.site
+btksikayet-btk-sikayet.up.railway.app
 bu-ff-dd-ss-de.xyz
 bu-garanti-yaz-ayi-naz-ayi.xyz
 bu-sonfirsatlarhaziran.online
@@ -4413,6 +4414,7 @@ hgsbakyeyklesmdi.cfd
 hgsbakyiebayi.firebaseapp.com
 hgsbakyiebayi.web.app
 hgsbasvurumhizmeti.duckdns.org
+hgsbkyeyklecfd.cfd
 hgsbkyeyklehdi.cfd
 hgsborcodemeguncl.com
 hgsborcodemeguncl.xyz
@@ -4621,6 +4623,8 @@ hmntknlasntam.net
 hnaolangnleremynym.shop
 hngfbgfbfb.cyou
 hobesletr.duckdns.org
+hodesterker.duckdns.org
+hohomster.duckdns.org
 hojemetstrer.duckdns.org
 hokesya.xyz
 holdeferete.hicam.net
@@ -7915,6 +7919,7 @@ pttavm.sepetimde-ilanlar.pro
 pttavm.sepette-siparis.com
 pttavm.sepette-siparisim.com
 pttavm.sip-tamamlat.com
+pttavm.siparis-guvenliodeme.com
 pttavm.siparisweb.net
 pttavm.site
 pttavmaracanaliz.firebaseapp.com
@@ -8374,6 +8379,7 @@ rtey73838.click
 rtkatrbascuru.sbs
 rudvesato-pasta.info
 rueuk.cn
+ruhsuzpanel.online
 ruxbuyra.gifts
 ruxdevol.gifts
 ruxmagaz.gifts
@@ -8467,14 +8473,19 @@ sahibinden-get-ilanservisiniz-jet.com
 sahibinden-get.alimlarinizhizmetler.online
 sahibinden-get.detayservisn.com
 sahibinden-get.emobileservislerr.com
+sahibinden-get.emobileservislerrn.online
+sahibinden-get.eurunhizmetin.com
+sahibinden-get.guveli-hizmet.online
 sahibinden-get.guvenli-hizmet.online
 sahibinden-get.guvenli-odemelerim.pro
+sahibinden-get.guvenliodemehizmet.online
 sahibinden-get.guvenliodemelerim.online
 sahibinden-get.guvenlisepetler-hizmet.online
 sahibinden-get.ilandetay-jet.com
 sahibinden-get.ilanjet-hizmetler.com
 sahibinden-get.ilanservis-odemehizmetin.online
 sahibinden-get.ilanservisnhizmet.com
+sahibinden-get.islem-alisveris-hizmet.com.tr
 sahibinden-get.jet-servis-hizmetlerim.online
 sahibinden-get.jetservishizmetleriniz.online
 sahibinden-get.jetservisleriniz.com
@@ -8485,12 +8496,15 @@ sahibinden-get.mobilservisiniz-15.sbs
 sahibinden-get.mobilservisler-27.sbs
 sahibinden-get.mobilservisler-30.sbs
 sahibinden-get.mobilservisler-44.sbs
+sahibinden-get.mobilservisler-49.sbs
 sahibinden-get.mobilservisler-50.sbs
 sahibinden-get.mobilservisler-66.sbs
 sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
+sahibinden-get.mobilservisleriniz-2.sbs
 sahibinden-get.servislerjethizmetler.online
 sahibinden-get.servsjethizmet.online
+sahibinden-get.vercel.app
 sahibinden-getilan.ile-guvenle-islem-web.com
 sahibinden-hizmet.online
 sahibinden-ilan.tr-get-servis.online
@@ -8769,6 +8783,7 @@ seroluni.pro
 serotoninenterprise.com
 sertifiky-daha-fazla.myonlineportal.ch
 servalingarden.pro
+server-guide--microsoftsignin.replit.app
 serverhubx.cyou
 servernest.sbs
 serverpath.digital
@@ -10368,6 +10383,7 @@ turkiyebilgirehberi.com
 turkiyebilgisi.com
 turkiyebonus.net
 turkiyebulletin.com
+turkiyefinans-katilim-com.duckdns.org
 turkiyefinans.pzbsin.com
 turkiyegozlemagi.com
 turkiyegundem24.com
