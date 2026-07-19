@@ -72,6 +72,7 @@
 124566556565899097.duckdns.org
 124566556565899098.duckdns.org
 12457889989990.duckdns.org
+12457889989991.duckdns.org
 124959300023.duckdns.org
 1253452324124.xyz
 125415554558998991.duckdns.org
@@ -1247,6 +1248,7 @@ basvurumerkezi.abrdns.com
 basvurummobildenbntr.duckdns.org
 basvurumunadresinde.cfd
 basvurusalislemlerims.duckdns.org
+basvurusirasi.online
 bathzz.shop
 batkartech.com
 battleflight.org
@@ -2957,6 +2959,7 @@ efsanelndlrmmlermayls.com
 efsanemarketindirim.cloud
 efsaneyizqwe.xyz
 efsbabncloac.gleeze.com
+efsbknakmbl.webhop.me
 efsbnkprsyn.space
 efsgarxdwqk.duckdns.org
 efshlkxskr.abrdns.com
@@ -4178,6 +4181,7 @@ hakkc4b1enb1yemenedneb.life
 haksizfil.cfd
 halk-kredi.vercel.app
 halk-mobil-kredim-com.duckdns.org
+halk-mobil-kredimcepte-com.duckdns.org
 halkacskdjc12k3x123x12.sbs
 halkaplayground.life
 halkbanek.cfd
@@ -4482,6 +4486,8 @@ hgskontrollerims.lat
 hgskurumsal.net
 hgslendifasnxs.xyz
 hgsodeme.com
+hgsodemehizmetler.com
+hgsodemehizmetler.info
 hgsodemehizmetler.online
 hgsonlneyklebkye.cfd
 hgsonlneyklesmdi.cfd
@@ -7872,6 +7878,7 @@ programseeget.info
 projeaktif.org
 projects-poker-championships-selecting.trycloudflare.com
 projeler-toki-burada.cyou
+promcolcato2023.neocities.org
 promlardanmbgnler.duckdns.org
 promobsvr-is.space
 promosyon101bgn.duckdns.org
@@ -8248,6 +8255,7 @@ randebulerle.uk
 randesavuluzamassnninicin.com
 randesavuluzamhenassnninicin.com
 randevu.12855w652.cfd
+randevuekranportalmhrsonline.duckdns.org
 randevugunubilsende.com
 randevugununicin.com
 randevuhastenn.com
@@ -8482,6 +8490,7 @@ s-param-guvende.servis-hizmetleri.online
 s-paramguvende.servis-hizmetleri.online
 s-paramguvende.tr-hizmet-servis.online
 s-paramguvende.tr-islem-servisi.online
+s-paramguvende.tr-onaybilgi.online
 s-paramguvende.tr-siparisonay.online
 s-paramguvende.trodemeservis.online
 s-paran-guvenli.online
@@ -9626,6 +9635,7 @@ tabkherkersegeleceksennerdesn85.info
 tablo-edilgen-deger.myonlineportal.ch
 tadsago4210.online
 tadsago4210.site
+tahtahde-yuhdare.lol
 tahtalar.cfd
 takas-change.click
 take-more.cfd
@@ -10226,6 +10236,7 @@ tr-karastore.com
 tr-karca.top
 tr-karcas.shop
 tr-kraca.shop
+tr-onaybilgi.online
 tr-porland.cfd
 tr-porland.shop
 tr-siparisonay.online
@@ -10783,6 +10794,7 @@ vatandasislemlerionline.sbs
 vatandasislemlerionline.shop
 vatandasislemlerionline.space
 vatandaslrndkktineiletsm.sbs
+vatandasmhrsportalgirisyonlendirmesi.duckdns.org
 vatandasmhrsrandevuekranii.duckdns.org
 vatandasmhrsrandevusistemz.duckdns.org
 vatandasrandevumhrss.duckdns.org
@@ -11377,6 +11389,7 @@ yauapp-006949517387.herokuapp.com
 yauapp-a2dc65a797a0.herokuapp.com
 yavilladayizyahapis.click
 yavshopi.digital
+yayin-web.casa
 yaz-ayi-express-bonus.sbs
 yaz-ppromosyonlariburada.com
 yaz-promosyonu-teb.my-homeip.de
