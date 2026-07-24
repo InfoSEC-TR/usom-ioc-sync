@@ -1084,6 +1084,7 @@ asons.top
 aspenglideupd.info
 assadsasddscsddsasacas.uk
 assetib.com
+ast.ols-img-12.workers.dev
 asteara.org
 astrocaf.com
 astrosastro.live
@@ -2407,6 +2408,7 @@ claude-app-new.gitlab.io
 claude-code-app.gitlab.io
 claude-desktop-lm.gitlab.io
 claude-desktop.gitlab.io
+claude-pro.com
 claudeapp.gitlab.io
 claudecode-desktop.gitlab.io
 claudescript.top
@@ -2912,6 +2914,7 @@ djcasjkcaskcj1ck3jx132.cfd
 djtalbsvruefo.space
 dkyatirimmenkul.com
 dlderi.com
+dlrz-web.oss-cn-beijing.aliyuncs.com
 dltruek.com
 dltucra.com
 dm.garantibbvakredibasvuru.com
@@ -3520,6 +3523,7 @@ fenabisey.blogspot.com
 fenkasro.gifts
 fenkupri.gifts
 fenmalloq.gifts
+fenmallu.com
 fenmercu.gifts
 fenorahubs.site
 fenoralabs.site
@@ -4097,6 +4101,7 @@ got8rflowes.info
 gotoinvst.com
 goturkey.blog
 goturkishmart.shop
+gouvvbo.top
 gov.y4nsmsars.sbs
 goveridash.co
 goverru.com
@@ -4237,6 +4242,7 @@ gundemnova.com
 gundempusula.site
 gundemraporum.com
 gundemrota.world
+gundemrotasi.info
 gundemyolu.cyou
 gunler-may-lifty.myonlineportal.ch
 gunlukbakislar.com
@@ -6360,6 +6366,7 @@ lab-vers.xyz
 labuns.netlify.app
 lalalala.click
 lalucobug.it.com
+laminyamalfans.duckdns.org
 landcomcare.com
 landscapeuganda.com
 lanfits.netlify.app
@@ -6410,6 +6417,7 @@ lflix.neocities.org
 liamseitfor.top
 lib.evsahibibasvuru.com
 librarycurrents.duckdns.org
+license.claude-pro.com
 lichenwispupd.info
 lifebalghance.pro
 lifescapehub.com
@@ -6879,6 +6887,7 @@ merkeziyetkayit.abrdns.com
 merkeziyetsizbasvuru.abrdns.com
 merkezkayitarayuzu.abrdns.com
 merkezkayiti.abrdns.com
+merkezlekayit.abrdns.com
 merkezlerkayitli.abrdns.com
 merkezlikayit.abrdns.com
 merkezlkayit.abrdns.com
@@ -8078,6 +8087,7 @@ pavexor.gifts
 pavilora.com
 pavmarto.gifts
 pavolen.com
+pawsmira.com
 paxshopu.gifts
 paydevletai.com
 payislemmerkezlerin.com
@@ -8213,6 +8223,7 @@ pksaonracalara.xyz
 pla7ina.cfd
 plainraw.com
 plambe.xyz
+plambex.com
 plambex.org
 planetariumguide.com
 planhesapla.com
@@ -8337,6 +8348,7 @@ prejointl.info
 premiumarac.net
 prenovalik.capital
 presence-chris-modern-ata.trycloudflare.com
+presscraftly.net
 pressluma.com
 pressspectrum.com
 pretonixgroup.com
@@ -9253,6 +9265,8 @@ sahibindenmuhasebeodeme.com
 sahibindenmuhasebeodemenoktasi.dedyn.io
 sahibindenparamguvende.tr
 sahibindenparamguvende.tr-s.online
+sahibindensaticionay.com
+sahibindensigorta.com
 sahibindensigortaodeme.com
 sahibindensigortaodemesi.com
 sahibindensozlesmeodemeleri.dedyn.io
@@ -9578,6 +9592,7 @@ siparisimpttavm.com
 siparisiniz-tamam.com
 siparislerolunsuyor.cloud
 siparissatin-al.com
+siparisver-hemen.com
 siparisweb.net
 sireneluxury.com
 siriqui.xyz
@@ -9972,6 +9987,7 @@ storyvista.online
 storywire.site
 storyyn.com
 stosrsadxadsax.sbs
+stparaguvende.servisbilgi-tr.online
 stratline.icu
 stratuscore.live
 stream.evsahibibasvuru.com
@@ -10039,6 +10055,7 @@ sxaxsafgdgsad.sbs
 sxxemizlexxetexx.duckdns.org
 sydv.enyeniweb.com
 syfiaydytea.live
+sylverixstrategy.com
 syn.ezpizi.click
 syncdock.click
 syncheaven.online
@@ -10694,6 +10711,7 @@ togg5000haziran.sbs
 togg5000haziran.xyz
 togg5000stok.cfd
 togg5000stok.click
+toggarac.com
 toggbasvurum.com
 togghaziran5000.com
 togghizlibasvuru.sbs
@@ -11084,6 +11102,7 @@ trusted-pros24.com
 trustedengagement.de
 trusttaxportal.com
 trvolta.com
+trvtrkdsnrsvjsd.online
 trvtrkdsnrsvjsd.store
 trwtwsn.duckdns.org
 tryclorenta.site
@@ -11194,6 +11213,7 @@ turkiyebilgirehberi.com
 turkiyebilgisi.com
 turkiyebonus.net
 turkiyebulletin.com
+turkiyeegitim.vu
 turkiyefinans-katilim-com.duckdns.org
 turkiyefinans-katilimyap-com.duckdns.org
 turkiyefinans.pzbsin.com
@@ -11211,6 +11231,7 @@ turkiyemercek.com
 turkiyemerkezbankasi.site
 turkiyenexus.com
 turkiyepanoru.com
+turkiyeperspektif.com
 turkiyepetrl.com
 turkiyepetrolleri-yatirim.com
 turkiyerotasi.com
@@ -11389,7 +11410,10 @@ uoni1m1godlr.icu
 upd-domain-goloro.com
 updata.net.cn
 update-all.tempurl.host
+update-crowdstrike.com
 update-kaspersky.workers.dev
+update-sentinelone.com
+update-trellix.com
 update.kaspersky.icu
 update.news7-days-info.org
 update.update-fall.com
@@ -11587,6 +11611,7 @@ veritonixmedia.com
 verolumi.pro
 vertexlabd.info
 vertexserp.info
+vertextrust-advisors.com
 vertlym.com
 vertualstreak.info
 vexalorin.shop
@@ -11733,6 +11758,7 @@ wealthwire.world
 web-182.cfd
 web-182.sbs
 web-182.xyz
+web-bas-vur.myonlineportal.de
 web-basvurum-grntbbva.fixip.org
 web-garanti-subesi-tr.ph
 web-links-mobil-tr.click
