@@ -66,6 +66,8 @@
 1234garanti.duckdns.org
 123jkjcsadklj12j3z1h2j3.sbs
 124124121.sbs
+124451545544554888787990.duckdns.org
+124451545544554888787991.duckdns.org
 1245115544166558998990.duckdns.org
 1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
@@ -742,6 +744,7 @@ akbankbireysel-sube.ph
 akbankdirekmobil.ph
 akbankdireksube.ph
 akbankdirekt-kampanyalar.ph
+akbankinvestprogram.click
 akbankk-bireysell.ph
 akbankmobil.netlify.app
 akbankmobilnet.ph
@@ -1096,6 +1099,7 @@ ashdhashdashdh899sadasdsa.click
 ashpaltlonpro.com
 ashx.lhlsjcb.com
 asics-turkiye.com
+asist-web.casa
 aslanapp-bd0eefc497ce.herokuapp.com
 aslangelburayaannemherseyhazr25.click
 aslankaplanherkeseburdakaplan.site
@@ -1332,8 +1336,10 @@ basvursendzk.com.tr
 basvursendzk.sbs
 basvursendzn.sbs
 basvursenn.sbs
+basvursenrnz.sbs
 basvursens.sbs
 basvursenv.sbs
+basvursenxm.sbs
 basvursenz.sbs
 basvursmz.sbs
 basvursnr.sbs
@@ -4768,6 +4774,7 @@ hemenislemana.net
 hemenislemhkatsa.net
 hemenislemknasn.net
 hemenislemler.com
+hemenislemn-sonuc.net
 hemenislemnal.net
 hemenislemnktans.net
 hemenislemnktasi.net
@@ -6078,6 +6085,7 @@ kireiu.eu
 kirmizibasliklipose.duckdns.org
 kirmizibasliklitirtil.duckdns.org
 kisa-birseyler.cfd
+kisa-edinim.guru
 kisa-links.site
 kisa-links.xyz
 kisaalink.xyz
@@ -9472,6 +9480,7 @@ saxasdasfagfaf1.cfd
 saxashdsaghdgha11.cfd
 saxashdsaghdgha11.cyou
 saxdasc123x12312.shop
+sayayaya.duckdns.org
 saydanis.click
 sayfadakal.duckdns.org
 sayginbelgelendirme.com
@@ -9525,6 +9534,7 @@ sedgepufftyd.pro
 seedrops.cfd
 sefore.netlify.app
 sega-ads-territories-appendix.trycloudflare.com
+sehaaredales.duckdns.org
 sektorbizdensoruluyor.sbs
 sektorukapatiyorumkimsereklamacamaztaklaciguvercin.com
 selcukbayraktar.aem.page
@@ -10935,6 +10945,7 @@ toki-gov.yapisalkonutlar.lol
 toki-govtr-tc.vercel.app
 toki-konut-basvurutr.org
 toki-toplu-konutlar.vercel.app
+toki-toplukonut.gravitycl.app
 toki-toplukonut.vercel.app
 toki-toplukonutlar.vercel.app
 toki.fastbsvuru.click
@@ -10975,6 +10986,7 @@ toplu-konut-idaresi-basvurunh.vercel.app
 toplu-konut-idaresi-basvurunuzu.vercel.app
 toplu-konut-idaresi-basvurusu.vercel.app
 toplu-konut-projesi-toki-gov-tr.ph
+toplu-konut.gravitycl.app
 toplukonu5391282121.vercel.app
 toplukonut0701455346.vercel.app
 toplukonut122142151.vercel.app
@@ -11017,6 +11029,7 @@ toplukonuthemenbasvuru.one
 toplukonuthemenbasvuru.sbs
 toplukonutiadresi.duckdns.org
 toplukonutidareleri358122.vercel.app
+toplukonutidaresi.gravitycl.app
 toplukonutidaresibabygangsubesi.vercel.app
 toplukonutidaresigungecmiyoryenibiseyolmasin.vercel.app
 toplukonutsignalgiris.vercel.app
