@@ -70,6 +70,7 @@
 1234garanti.duckdns.org
 123jkjcsadklj12j3z1h2j3.sbs
 124124121.sbs
+124124124.duckdns.org
 124451545544554888787990.duckdns.org
 124451545544554888787991.duckdns.org
 124451545544554888787992.duckdns.org
@@ -5247,6 +5248,7 @@ hizli-islem.com
 hizli-limit.xyz
 hizli-siparis-baglanti.com
 hizli-siparis-linki.com
+hizli-siparis-onaylama-baglantisi.com
 hizli-siparis-sayfasi.com
 hizlialisverisicinbr.com
 hizliaracgecisilieriniz.sbs
@@ -8940,6 +8942,7 @@ pplardandandan.sbs
 pplardandandan.shop
 pporscsic.net
 ppp00oo3o0ooopp.duckdns.org
+pppzirpppsf.nicepage.io
 ppvagirisgoniz1ernenutrapp.space
 ppvagirisgonizlemenuapptr.space
 pqvagirisonizlemenugapptr.space
@@ -9398,6 +9401,7 @@ qunlivo.com
 quorion.site
 qwdfqwefsdafsd.duckdns.org
 qwdx12dxadxq.sbs
+qwdx21x1xd12.duckdns.org
 qwenytuntyuner.click
 qwrtybvc.sbs
 r.garantibbvakredibasvuru.com
@@ -9479,6 +9483,7 @@ randevuislemleribdusa.online
 randevuislemleribdusa.store
 randevularinizigorun.com
 randevuluguncere.com
+randevulugunlerburada.duckdns.org
 randevulugunlere.com
 randevuluzamanninicin.net
 randevunuzu-goruntuleyin.com
@@ -10683,6 +10688,7 @@ ssl.blsouqs.com
 sso-auth.com
 ssss22232323.duckdns.org
 sssseww23xx.duckdns.org
+sstbonlinebasvuru.com
 sstrak-bsrvat.cfd
 sstss.loseyourip.com
 stabil-olgu-gelisim.myonlineportal.ch
@@ -12258,6 +12264,7 @@ urbanview.site
 urlmal.com
 urun-dyson.duckdns.org
 urunler-kampanyali.duckdns.org
+urunodemetr.online
 urunssepetim.com
 urush1bar4.online
 urvely.com
@@ -12892,6 +12899,7 @@ xn--kadrnusyz-xpb.com
 xn--kampanyalarkarma-opb34kda.com
 xn--kampanyaliiisin-sok-gnleri-j0c.org.tr
 xn--manysub-rfb.xyz
+xn--markafrasst101-bgc.com.tr
 xn--mobildendenizbannkkkampanyamzbasvuru-6mf.com.ph
 xn--otokootomotiv-mgb.com
 xn--param-gven-de-ile-siparis-lwc.com
@@ -13376,6 +13384,7 @@ ziraatsbank.xyz
 ziraatselseyler.fun
 ziraatyenilenensubemiz.com.ph
 zirahot-basvur.vercel.app
+zirailillf.cfd
 zirat-kredi-basvuru-formu.duckdns.org
 ziratoff.online
 ziratt-yeni.com
