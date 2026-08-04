@@ -581,6 +581,7 @@ a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
 a-101-sadece-bugune-ozel-mobil.online-tr-shop-mobil.site
+a-101-sadece-bugune-ozel-sepette-indirim-online-mobil-cep-tr.360-plus.com
 a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online
 a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online
 a-101c0mtlc.shop
@@ -4309,6 +4310,7 @@ garanti-bireysel-basvurular-com.webredirect.org
 garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-bonus-cepte-com.duckdns.org
 garanti-bonus-islemler-com.duckdns.org
+garanti-bonus-islemler-com.duia.ro
 garanti-cepte-basvuruekrani-com.webredirect.org
 garanti-kredi-basvuru.sbs
 garanti-kredi-basvurusu.sbs
@@ -6284,12 +6286,14 @@ izakkfosa.blogspot.com
 izalkfssq.blogspot.com
 izalkoofss.blogspot.com
 izaoroppqs.blogspot.com
+izeltoot.dnsup.net
 izfocus.gifts
 izgwna.click
 izkaoodps.blogspot.com
 izkooogoddd444.blogspot.com
 izlakd.dnsup.net
 izlakfoas.blogspot.com
+izlakosta.blogspot.com
 izlaopqds.duckdns.org
 izlaotsaas.blogspot.com
 izlasfqwrs.blogspot.com
@@ -10213,8 +10217,10 @@ s0kmarkletler.shop
 s0kmarkletmer.shop
 s0kmarklkerler.com
 s0kmarkot.shop
+s0kmarkretler.com
 s0kmarkteltler.xyz
 s0kmarleletr.com
+s0kmarletrey.com
 s0kmarlkeper.shop
 s0kmarlket.shop
 s0kmarlketitim.com
@@ -11248,6 +11254,7 @@ sube-fba.com
 sube-fiba.com
 sube-garantl.shop
 sube-infoyatirim.com
+sube-kuveyt-turk.duckdns.org
 sube-matriksmenkulkiymetler.com
 sube.sekermenkul.com
 sube.sekerplatform.pro
@@ -12313,6 +12320,8 @@ trendyol-baglanti-ile-satin-al.com
 trendyol-ile-baglanti-tamamla.com
 trendyol-mall.biz
 trendyol-mall.online
+trendyol-siparistamamla.com
+trendyol-siparistamamla.com.tr
 trendyol.ilanservis-odemen.online
 trendyol.mobilservisin-24.sbs
 trendyol0-1029.l3v0.my
@@ -13315,6 +13324,7 @@ wravio.info
 wrned.com
 wrwgwgs.xyz
 ws.182iletisim.cyou
+wsb-tapsverndvun.net
 wtw252s-wrw5tww.xyz
 wtyqahsd.xyz
 wulqevor.surf
@@ -13555,6 +13565,7 @@ y0nlendiriliy0rsun0zpe.duckdns.org
 y0nlendiriliy4rsynyz.duckdns.org
 y3k7n5r9w2t6.sbs
 y44nlndird4st4maktifsen.duckdns.org
+y4nln4riy4su4n4uzprof.duckdns.org
 y4nlndir4deincirl4yimknk.duckdns.org
 y4nsmsars.sbs
 y6n2z8w5t1k7.sbs
@@ -13852,6 +13863,7 @@ z1rayurcat.nicepage.io
 z1ttrhf.cfd
 z23213x12321.duckdns.org
 z2ratll.cfd
+z3ratvv.cfd
 z4q7k1m8v3p9.lol
 z4w7q2m9k6p1.cfd
 z5q1v8k3m7x9.cfd
