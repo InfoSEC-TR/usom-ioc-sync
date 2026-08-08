@@ -8265,6 +8265,7 @@ mobil-sepet-shop.click
 mobil-sepet-shop.online
 mobil-sepet-tr.online
 mobil-yazda-yakinini-davet.xyz
+mobil.obilet-tr.uk
 mobil.uyap-gov.com
 mobilbasvuru.my-homeip.de
 mobilbireyselkatilimm.online
@@ -9344,6 +9345,7 @@ paribuaraba-hediye.com
 paribuaraba-kazanci.com
 paribuaraba-kazanci.info
 paribuaraba-kazanci.link
+paribuaraba-kazandim.info
 paribuaraba-kazanma.com
 paribuaraba-kazanma.info
 paribuaraba-kazanma.link
@@ -11701,9 +11703,11 @@ sube-kuveyt-ttr.duckdns.org
 sube-kuveyt-turk.duckdns.org
 sube-matriksmenkulkiymetler.com
 sube-mobilkvyt.duckdns.org
+sube.garanti.fun
 sube.mufgfinance.net
 sube.sekermenkul.com
 sube.sekerplatform.pro
+subedenmobiliz.myonlineportal.de
 subeinf.com
 subeislemlerim-akbank.ph
 subemiz-garanti.myonlineportal.eu
@@ -13191,6 +13195,7 @@ ucbeskazaniyorumamayetmiyor.click
 ucurumsunbana9.uk
 ucuz-obilet.online
 ucuz.obilet-mobil.uk
+ucuz.obilet-tr.uk
 uetsteblig.org
 uhufudure-resederete.lol
 ui9r09xfxp2n.icu
@@ -14271,7 +14276,9 @@ ynlndirmdsnsormakdnk.duckdns.org
 yogabloom.icu
 yogasoul.icu
 yolcu.obilet-mobil.uk
+yolcu.obilet-tr.uk
 yolculuk.obilet-mobil.uk
+yolculuk.obilet-tr.uk
 yolcurentacar.net
 yolgecisihlalbrcnodme.com
 yolgoarackiralama.com
