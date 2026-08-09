@@ -37,6 +37,7 @@
 10000000001.opik.net
 100101099999900001.duckdns.org
 1001harcabitmez.click
+101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-kstra.s3.eu-north-1.amazonaws.com
 101.3mysfirstl4.art
 10100002026.duckdns.org
@@ -284,6 +285,7 @@
 2tammuzdasiparislerinde.cloud
 300j34cx2credxixx311.duckdns.org
 312221222145558999891.duckdns.org
+312221222145558999893.duckdns.org
 312222545548789988990.duckdns.org
 312222545548789988991.duckdns.org
 312222545548789988992.duckdns.org
@@ -2827,6 +2829,7 @@ cl.distritovagas.com
 cladesktop.gitlab.io
 claracurrent.com
 clasare.com.tr
+clascicek.com
 claude-app-new.gitlab.io
 claude-code-app.gitlab.io
 claude-desktop-lm.gitlab.io
@@ -4062,10 +4065,21 @@ faalsias.nicepage.io
 face-book-login-extra.ph
 face-kampnyalari.xyz
 facebook--login-security.ph
+facebook-confirm-login.com.ph
 facebook-login-guide.com.ph
 facebook-login-login-extra.ph
 facebook.evsahibibasvuru.com
 facebookloginapponline.ph
+facebookloginlabd.com.ph
+facebookloginlabe.com.ph
+facebookloginlabe.net.ph
+facebookloginlabg.com.ph
+facebookloginlabg.net.ph
+facebookloginlal.com.ph
+facebookloginlal.net.ph
+facebookloginlam.com.ph
+facebookloginlan.com.ph
+facebookloginlan.net.ph
 facebookloginlawyer.com.ph
 facebookloginonlinelegal.com.ph
 facebookloginparty.com.ph
@@ -5898,6 +5912,7 @@ hmnislemnktans.net
 hmnislemnktbas.net
 hmnislemnktsans.net
 hmnislemnoktnasn.net
+hmnislemntkas.net
 hmnislmbkntans.net
 hmnislmknat.net
 hmnislmnkatnas.net
@@ -6161,6 +6176,7 @@ ileribakislar.com
 ilerivizyonrotasi.com
 ilerleme-yaptirim-grim.myonlineportal.ch
 ileservishzmetinz.com
+ileservishzmetlerinz.com
 iletilisim.com
 iletilissim.com
 iletisimonllne-sorguekranlariacildi.sbs
@@ -7038,6 +7054,7 @@ kilometrekusu.xyz
 kilometresorgulamapttavm.com
 kilometresorgupttavm.com
 kilometrogrenin.web.app
+kilomtresorgulabilgi.web.app
 kilomtresorgulma.web.app
 kimbilirziya.click
 kimseyitutmuyorum.sbs
@@ -7061,6 +7078,8 @@ kisalt-tr-mobil.sbs
 kisaltbunu.dpdns.org
 kisaltlnks-mobil.sbs
 kisaltmalar.site
+kisim-edinim-hakkinda.ink
+kisitkaldirmalinkibasvuru.duckdns.org
 kitaprota.com
 kitemailpocket.com
 kittyfreespace.com
@@ -10283,6 +10302,7 @@ qmartelyx.xyz
 qmenkul.com
 qmenkuldegerler.com
 qnasndnasn.vercel.app
+qnb-enpara-cekilis.ph
 qnb-finansbankasi.ph
 qnb-finansbankasionline.ph
 qnb-finansbankr-enpara.ph
@@ -10886,6 +10906,7 @@ sahibinden.ilanim-onay-762212.com
 sahibinden.ile-islemlerim.com.tr
 sahibinden.ile-sepette-onay.com.tr
 sahibinden.ileservishzmetin.com
+sahibinden.ileservishzmetlerinz.com
 sahibinden.islemlerin-mobilde.com
 sahibinden.live
 sahibinden.magaza-mobil.com
@@ -11411,6 +11432,7 @@ snaketwig.com
 snapkeep.info
 snapstory.online
 snardesdefac.duckdns.org
+snbenmcokckardfas80.click
 snbnlarbrdanalmdnkrl.shop
 sndbnlaraklgld.com
 sndebndangyrotegdmez.shop
@@ -13725,6 +13747,7 @@ vuhukul-daeredesede.lol
 vuhukulupolisede.lat
 vujuhugufueretesede.xyz
 vulcarti.gifts
+vulipilongo-katore.lol
 vusuydryt.love
 vuvugufere-dadada.lol
 vuyhujuklederete.lat
