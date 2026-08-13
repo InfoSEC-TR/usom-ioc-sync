@@ -368,6 +368,7 @@
 412221222145558999892.duckdns.org
 412221222145558999893.duckdns.org
 412221222145558999894.duckdns.org
+412221222145558999896.duckdns.org
 4124124124.duckdns.org
 41242142142151512421.duckdns.org
 412941234531.com
@@ -1260,6 +1261,7 @@ araba-cekilisi-paribu.com
 araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
 araba-cekilisi.com
+araba-cekilisi.live
 araba-cekilisii.com
 araba-cekilisim.com
 araba-cekilisim.info
@@ -2471,6 +2473,7 @@ bromist.best
 bronzelocker.bond
 brovixa.cyou
 brovixan.com
+broxent.com
 brrrdyzzzzzsnlllll.shop
 brule.live
 brunestavok.gifts
@@ -5354,6 +5357,7 @@ gunu-tr.online
 gununbakisi.com
 gununbakisi.cyou
 gunundosyasi.com
+gununfirsatiburada.com
 gununflrsatiburada.com
 gununpusulasi.gifts
 gununubilsende.com
@@ -10301,6 +10305,7 @@ pemex-payment.xyz
 pending-verification.com
 peowqlauoshau8.com
 pepe-cekilis.com
+pepe-cekilisim.com
 pepecekilisim.com
 pepepupuchek13.com
 pepepx00x0xw23.duckdns.org
@@ -12123,6 +12128,7 @@ skullcrusherd.pro
 sky-borders.com
 sky-head.cfd
 skyhanni.cloud
+skylinvo.com
 skylytika.site
 skythelight.co
 skyverge.cfd
@@ -14016,6 +14022,7 @@ tuv-trk.net
 tuv-turkk.com
 tuv-turkl.digital
 tuv.12855w652.forum
+tuvhizlihizmetmobil.site
 tuvislem.site
 tuvkdkaksaksaas.com.tr
 tuvmhr-ss.com
@@ -14413,6 +14420,7 @@ vectorquantnexus6.lol
 vectorquantnexus7.lol
 vectorquantnexus8.lol
 vectorquantnexus9.lol
+veganhost.top
 vegarlerimenuguncel.xyz
 velbayoq.tr
 velbazar.gifts
