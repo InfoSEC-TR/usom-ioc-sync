@@ -1,5 +1,5 @@
 {
-  "last_update_utc": "2026-08-15T01:53:48.395069+00:00",
+  "last_update_utc": "2026-08-15T03:58:46.121570+00:00",
   "per_page": 1000,
   "initial_bootstrap_pages": 5,
   "stop_after_known": 40,
@@ -23,10 +23,10 @@
     {
       "type": "domain",
       "base_name": "usom_domain",
-      "previous_max_id": 1156944,
+      "previous_max_id": 1156948,
       "new_max_id": 1156948,
-      "fetched_records": 2,
-      "new_records": 2,
+      "fetched_records": 0,
+      "new_records": 0,
       "api_total_count": 465492,
       "api_page_count": 466,
       "initial_bootstrap_pages": 5
