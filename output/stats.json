@@ -1,11 +1,11 @@
 {
-  "last_update_utc": "2026-08-26T04:07:13.687612+00:00",
+  "last_update_utc": "2026-08-26T07:14:24.245507+00:00",
   "per_page": 1000,
   "initial_bootstrap_pages": 5,
   "stop_after_known": 40,
   "state": {
     "ip": 1161336,
-    "domain": 1161492,
+    "domain": 1161540,
     "url": 851416
   },
   "results": [
@@ -24,10 +24,10 @@
       "type": "domain",
       "base_name": "usom_domain",
       "previous_max_id": 1161492,
-      "new_max_id": 1161492,
-      "fetched_records": 0,
-      "new_records": 0,
-      "api_total_count": 467207,
+      "new_max_id": 1161540,
+      "fetched_records": 24,
+      "new_records": 24,
+      "api_total_count": 467231,
       "api_page_count": 468,
       "initial_bootstrap_pages": 5
     },
