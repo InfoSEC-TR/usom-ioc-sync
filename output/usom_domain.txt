@@ -165,6 +165,7 @@
 1254598989899890.duckdns.org
 1254598989899893.duckdns.org
 1254598989899894.duckdns.org
+1254598989899898.duckdns.org
 1255665988451698992.duckdns.org
 1255665988451698993.duckdns.org
 12855w652.click
@@ -824,6 +825,7 @@ a-101-extra-sadece-online-ozel-mobilde-tr.shop-tr-online-mobil.site
 a-101-extra-sadece-online-ozel-tr.online-shop-bireysel-tr.sbs
 a-101-extra-sadece-online-ozel-tr.online-tr-shop-mobil.sbs
 a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs
+a-101-mobil-sadece-bugune-ozel-tr.cepte-indirimler.online
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
@@ -839,7 +841,9 @@ a-101xaxakapinda.com
 a-1o1-c.duckdns.org
 a-alisveris-sepetim.com
 a-g-r.my-homeip.de
+a-hymo.myonlineportal.ch
 a-life-groundweb.myonlineportal.ch
+a-ri-l.myonlineportal.ch
 a-right-look-mr.myonlineportal.ch
 a-rs-m.myonlineportal.ch
 a-s-b-c.myonlineportal.ch
@@ -1402,6 +1406,7 @@ alipay-guvenli.ph
 alipay-hepsiburada.ph
 alisveris-sepetimiz.com
 alisveris.lol
+alisverisepetin-12.sbs
 alisverishizmeti.online
 alisverishizmetin-10.sbs
 alisverishizmetin-20.sbs
@@ -2829,6 +2834,7 @@ bireybasvurular.click
 bireycel-pass.my-homeip.net
 bireysel-akmobil-cepte-com.duckdns.org
 bireysel-firsatlar.click
+bireysel-guvenli-siparis-onay-sistemi-guncel.online
 bireysel-iade-halkbank.ph
 bireysel-islemler-com-garanti.duckdns.org
 bireysel-islemlerim-garanti.freemyip.com
@@ -5649,6 +5655,7 @@ eylulcspkmpny.duckdns.org
 eylulfirstlari.duckdns.org
 eylulflrsatlarl.com
 eylulflrsatlmiz.com
+eylulfrstgnleri.duckdns.org
 eylulgirismobil.top
 eylulgnlerindeyizbizlere.duckdns.org
 eylulgunlerinb.gleeze.com
@@ -10126,6 +10133,7 @@ kmpnyasnbfrfskataa64885.pro
 kmpnybsvrrrprsmynn15329.info
 kmpnybsvrrrprsmynn15329.pro
 kmpnyeylulfirst.duckdns.org
+kmpnyeylulsn.duckdns.org
 kmpnykredibsvrrrfrstlarrr158749.online
 kmpnykredibsvrrrfrstlarrr158749.pro
 kmpnylrrbsvrrsnfrstlrrr.art
@@ -10374,6 +10382,7 @@ kredibasvuruportal.club
 kredibasvuruportali.lat
 kredibasvurusu.lat
 krediibsvrrrkmnpyyyprmsnnn.info
+krediibsvrrrkmnpyyyprmsnnn.pro
 krediiibsvrrkmpnyaafrsatlarii.info
 krediiibsvrrkmpnyaafrsatlarii.life
 krediiibsvrrkmpnyaafrsatlarii.online
@@ -10381,6 +10390,7 @@ krediiibsvrrkmpnyaafrsatlarii.xyz
 krediikmpnyaabsvrrsnfrstlarrr.info
 krediikmpnyaabsvrrsnfrstlarrr.pro
 kredin-hazir-online.cloud
+krediniz-hazir-online.cloud
 krediye-online-basvur.cfd
 krediye-online-basvur.click
 krediye-online-basvur.lat
@@ -12252,6 +12262,7 @@ myfacebook-login-extra.ph
 mygarantibva.com
 mygreatmarket.com
 mygreatmarket.org
+myheabmkatlsende58.info
 mykankacmsendebasvur.art
 mykankacmsendebasvuronline.art
 mykaracaev.store
