@@ -52,6 +52,7 @@
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
+101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
@@ -1329,6 +1330,7 @@ aktuelindrmcebd.duckdns.org
 aktuelortisc.com
 aktuelseninle.com
 aktuelsepetim.com
+aktuelsinirlisayiak.sbs
 aktuelsinirlisayiaks.cfd
 aktuelurunleraldin.blogspot.com
 aktuelurunlerburadalar.blogspot.com
@@ -1415,6 +1417,7 @@ alipay-hepsiburada.ph
 alisveris-sepetimiz.com
 alisveris.lol
 alisverisepetin-12.sbs
+alisverisepetin-13.sbs
 alisverishizmeti.online
 alisverishizmetin-10.sbs
 alisverishizmetin-20.sbs
@@ -1496,6 +1499,7 @@ aluminiostramuntana.com
 alumni.evsahibibasvuru.com
 alvoriax.shop
 alxescript.info
+amazon-garantibbva-anzamazonbooka.ph
 amazon-garantibbva.ph
 ambistan.lat
 ambivalencesmislabor.site
@@ -3183,6 +3187,7 @@ brinshopqa.cyou
 briskinternet.com
 brispol.click
 bristovexa.shop
+britishairways-noon-garantibbva.com.ph
 brivanahubs.store
 brivaxo7nqel2t9k.cfd
 broadbasket.shop
@@ -5939,6 +5944,7 @@ finance99-dolor1.sbs
 financeavira.com
 financialscope.world
 finansai.org
+finansaldestekler.cfd
 finansalpiyasa.cfd
 finansbankkredikarti.ph
 finansbankkrediparacepte.ph
@@ -8745,6 +8751,7 @@ ile-islemlerim.com.tr
 ile-onay-sepete.com
 ile-saitin-al.online
 ile-sepet-islemler.com.tr
+ile-sepete-islemler.com.tr
 ile-sepetim.com.tr
 ile-sepetlerim.com.tr
 ilelebetsizinle.click
@@ -11639,6 +11646,7 @@ metakaitaoffline.sbs
 metakaitareklamofflinebee.sbs
 metakamp.site
 metaofflinereklam.sbs
+metaorasiburasioffline.sbs
 metareklam.shop
 metareklam9503.cfd
 metareklam9503.sbs
@@ -14184,6 +14192,7 @@ pogdifirterese.lat
 pokerxzhsldndu3dx3e.click
 pokushokus.xyz
 polamero.best
+polami-nutegax.lol
 polentaq.com
 polhigiderete.lat
 police-disks-bull-given.trycloudflare.com
@@ -16708,6 +16717,7 @@ solvoro.xyz
 solxo.xyz
 somkerler.com
 son-gun-destekleme.cfd
+son.firsatlar.bitiyor.hizmelgk.click
 son101.duckdns.org
 son101cilerkaldi.cloud
 son2026indirimleri101.biz
@@ -17148,6 +17158,7 @@ subleaqfjs.com
 submit-customer.shop
 submit-screen.shop
 submitpages.shop
+subplatewallet.com
 subserterons.duckdns.org
 subterranews.pics
 suclamadava.org
@@ -18380,6 +18391,7 @@ tr-suwen.shop
 tr-teb-com.my-homeip.de
 tr-tekoaos.cc
 tr-web-alisveris.online
+tr-webislemler-get-alisveris.online
 tr.karacasales.shop
 tr42-guncelsikaytler.sbs
 tr44-guncelsikaytler.sbs
@@ -18730,6 +18742,7 @@ turkhaberplatformu.com
 turkhaberz.com
 turkhaberzinciri.com
 turkhavayollari.click
+turkhavayollari.se
 turkhavayollarikampanya.2011muslera.click
 turkhavayollarikampanya.suanokadar.sbs
 turkhavayollarikampanya.vaylele.click
@@ -20650,6 +20663,8 @@ zeluspanel.art
 zelvanto.xyz
 zelvio.cfd
 zen-tava.com
+zen3bet.shop
+zen8bet.shop
 zendu.site
 zenfract.vip
 zenhivo.pro
