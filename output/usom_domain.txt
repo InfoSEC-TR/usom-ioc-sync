@@ -50,6 +50,7 @@
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
+101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
@@ -121,6 +122,7 @@
 12211455441554555889891.xyz
 12211455441554555889892.xyz
 12211455441554555889894.xyz
+12211455441554555889895.xyz
 122455512222455588899890.duckdns.org
 1231516frrrssrstlarrkmpnyaasbsvrr.info
 1231516frrrssrstlarrkmpnyaasbsvrr.online
@@ -3654,6 +3656,7 @@ caydanlikburda.vercel.app
 caydanlikkampholding.com
 caykaraca-11d70fd257ba.herokuapp.com
 caykursiparis.com
+caykursiparis.net
 caylclicimakinlere.com
 caymakineleri.com
 caymakinesi-aktuel.lat
@@ -5645,6 +5648,8 @@ evindenhizlibasvur.misecure.com
 evisa-gov-tr.com
 evolanexgroup.com
 evraksorgu.com
+evrenapi.xyz
+evrenium.xyz
 evrenyum.site
 evsahibi.online
 evsahibiturkiye.pages.dev
@@ -8287,6 +8292,7 @@ hizlivekolaysorgulamam.shop
 hizmet-islememleri.com
 hizmet-merkezi-online.com
 hizmet-teb-basvur.my-homeip.de
+hizmet.basvuru.son.gun.bugun.skosaodk.click
 hizmetbasvurularimsizde.duckdns.org
 hizmetfirsatlarimkatil.duckdns.org
 hizmetinkalitesi-burada.shop
@@ -8753,6 +8759,7 @@ ile-saitin-al.online
 ile-sepet-islemler.com.tr
 ile-sepete-islemler.com.tr
 ile-sepetim.com.tr
+ile-sepetiniz.com.tr
 ile-sepetlerim.com.tr
 ilelebetsizinle.click
 ileri-agency.myonlineportal.ch
@@ -11650,6 +11657,7 @@ metaorasiburasioffline.sbs
 metareklam.shop
 metareklam9503.cfd
 metareklam9503.sbs
+metareklamoffline.sbs
 metax51c23x132.cfd
 metaxrkox23z.sbs
 meteorclients.com
@@ -14564,6 +14572,7 @@ pttavm.ile-guvenli-web-tr.com
 pttavm.ile-onay-sepete.net.tr
 pttavm.ile-online-islemlerim.com.tr
 pttavm.ile-sepetim.com.tr
+pttavm.ile-sepetiniz.com.tr
 pttavm.ile-sepette-islem.com.tr
 pttavm.ileservishzmetlerinz.com
 pttavm.islemlerin-mobilde.com
@@ -14798,6 +14807,7 @@ qeuasytua.love
 qewqewqewqtq.duckdns.org
 qewqewqewqtqthree.duckdns.org
 qewqewqewqtqtwo.duckdns.org
+qidaru-wesolimatup.lol
 qilavornexo.shop
 qimdepi.com
 qimkasaq.gifts
@@ -17554,6 +17564,7 @@ tanfanmansuf4.sbs
 tanitim-cekilis.online
 tanitim-sans.online
 tanivuso-gepolemi.lol
+tanuwi-fikosen.lol
 tap2krocsklxucu.lol
 tapgncweb.web.app
 taphzmet.store
