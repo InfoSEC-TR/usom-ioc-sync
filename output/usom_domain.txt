@@ -1551,6 +1551,7 @@ aninda-basvurularim-com-garanti.duckdns.org
 aninda-kredi-basvuru.cloud
 aninda-lokal.ink
 aninda-siparis-baglantisi.com
+anindabasvur.cfd
 anindagarantiwebkaynak.xyz
 anindaislemonay.com
 anindateklifler.abrdns.com
@@ -3814,6 +3815,7 @@ cepteteb-com-tr.my-homeip.de
 cepteteb-com.my-homeip.de
 cepteteb-digital-firsatlar.my-homeip.de
 cepteteb-emekli-basvur.myonlineportal.ch
+cepteteb-emekli-kampanyaniz.my-homeip.de
 cepteteb-emekli.myonlineportal.de
 cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.my-homeip.de
@@ -11327,6 +11329,7 @@ maliyeportal.org
 maliyerandevusistemi.com
 maliyesicil.net
 maliyesicil.org
+maliyesorgutc.net
 maliyesorgutr.org
 maliyet-fark.myonlineportal.ch
 maliyetakibi.org
@@ -20478,6 +20481,7 @@ yklesrglhgs.cfd
 yklmebslasmdi.cfd
 yklmednsnrhgs.cfd
 yklmehgszmnpra.cfd
+yklmenktnizhgs.cfd
 yklmlersnhzla.cfd
 yklmrdnsnrahgs.cfd
 ymdreferans.online
