@@ -274,6 +274,7 @@
 12457889989998.duckdns.org
 12457889989999.duckdns.org
 124959300023.duckdns.org
+124992004888522.webredirect.org
 124992004888532.webredirect.org
 125125121.click
 125125121.xyz
@@ -6843,6 +6844,7 @@ firesalevip.top
 firjacket.top
 firmalar.firma.firmaslfasd.click
 firsai.tipshub.net
+firsat-cepde.my-homeip.de
 firsat-promos-gelicikk.shop
 firsat-tebde.my-homeip.de
 firsat-urununuz-sondemler.sbs
@@ -10030,6 +10032,7 @@ internetislemleri-akmobil-bireysel-com.duckdns.org
 internetkobi.duckdns.org
 internetonline.click
 internetprvpn.ru
+internetsubbbeee.duckdns.org
 internetsube-qnbfinansbankasi-login.ph
 internetsube-qnbfinansbankasi.ph
 internetsubesi-finans.my-homeip.net
@@ -16223,6 +16226,7 @@ ptt.mobilservisler-67.sbs
 ptt.mobilservisler-87.sbs
 ptt.satinalonlinesiparis.com
 ptt.sepetimhizlisatinal.com
+ptt360avm.com
 pttaevm.com
 pttavkilometresrgu.web.app
 pttavm-arac-bilgileriniz.firebaseapp.com
@@ -17423,8 +17427,10 @@ sahibinden-getilan.tr-alisveris-webislemler.online
 sahibinden-getilan.tr-alisverisler-getislem.online
 sahibinden-getilan.tr-web-alisveris.online
 sahibinden-getilan.tr-web-islemler.online
+sahibinden-getilan.tr-webalisveris-tr-getislemler.online
 sahibinden-getilan.tr-webislemler-tr-alisveris.online
 sahibinden-getilan.tr-webislemler-tr-getalisveris.online
+sahibinden-getilan.tr-webislemler-tr-getislemler.online
 sahibinden-getilan.tr-webislemlerim-getalisveris.online
 sahibinden-getilan.tr-webislemlerin-getalisveris.online
 sahibinden-getilan.tr-webislemlerin-tr-get-alisveris.online
@@ -20509,6 +20515,7 @@ tr-web-alisveris.online
 tr-webislemler-alisveris-get.online
 tr-webislemler-get-alisveris.online
 tr-webislemler-tr-getalisverisler.online
+tr-webislemler-tr-getislemler.online
 tr-webislemlerim-getalisveris.online
 tr-webislemlerin-getalisveris.online
 tr-webislemlerin-tr-get-alisveris.online
@@ -22092,6 +22099,7 @@ www-cepteteb-com-tr-firsatlar-promosyon.myonlineportal.ch
 www-cepteteb-com-tr-firsatlar.my-homeip.de
 www-cepteteb-com-tr-online-kampanya.myonlineportal.ch
 www-cepteteb-com-tr-online-kampanya.myonlineportal.de
+www-cepteteb-com-tr-promosyon.my-homeip.de
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
 www-cepteteb-emekli-kampanyalari.my-homeip.de
 www-cepteteb-emekliye.my-homeip.de
@@ -22951,6 +22959,7 @@ zelmarvo.com
 zelmoraq.bond
 zeloravik.shop
 zeloria.info
+zeloriaquadsok.com
 zelpazro.gifts
 zelpx.garden
 zelshopro.com
