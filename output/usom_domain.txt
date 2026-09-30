@@ -6389,6 +6389,7 @@ esogu.net.tr
 esorgu-onaylanansorgulariniz.sbs
 esorgudetay.com
 esorgugib.com
+esorguhazine.org
 esorgulama.com
 esorguuzlasma.org
 espaceclient.alliance3i.com
@@ -22274,10 +22275,12 @@ www-cepte-secrty-tb.myonlineportal.ch
 www-cepte-smdi.myonlineportal.ch
 www-cepte-stor-syn.myonlineportal.ch
 www-cepte-tb-story.myonlineportal.ch
+www-cepte-tbyour-web.myonlineportal.ch
 www-cepte-teb-com.my-homeip.de
 www-cepte-teb-work.myonlineportal.ch
 www-cepte-time-tb.myonlineportal.ch
 www-cepte-tvb-right.myonlineportal.ch
+www-cepte-tyb-web.myonlineportal.ch
 www-cepte-wb-tb.myonlineportal.ch
 www-ceptedir-sync.myonlineportal.ch
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
