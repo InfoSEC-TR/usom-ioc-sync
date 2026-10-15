@@ -357,6 +357,7 @@
 1222233122455666512255997.xyz
 1222233122455666512255999.xyz
 122224457999989999089091.xyz
+122224457999989999089092.xyz
 122241224551222455590.duckdns.org
 12229828189122.duckdns.org
 12239928837727.servecounterstrike.com
@@ -2774,6 +2775,7 @@ asncxbyaaasdanala.784191565489651.sbs
 asncxbyaaasdanala.84651894561645111.sbs
 asncxbyaaasdanala.849561564486510.sbs
 asncxbyaaasdanala.84965148651.sbs
+asncxbyaaasdanala.86456816843568.sbs
 asncxbyaaasdanala.874184655641556.sbs
 asncxbyaaasdanala.8746519864165.sbs
 asncxbyaaasdanala.8796451654165333.sbs
@@ -8419,6 +8421,7 @@ gelsinkapina.co
 gelsinkapinaclub.click
 geltatleyeburdfahereyvar81.click
 gelvebasinial.duckdns.org
+gemgovrmn.web.id
 gemimi-ads.com
 gemini-ads-ai.com
 gemini-ads-invite.com
@@ -11007,6 +11010,7 @@ hrryagustosgunlerindepr.duckdns.org
 hrrynewgnler.duckdns.org
 hryagstsprmsyn.duckdns.org
 hsauyeet.live
+hsb.menkulcuzdan.com
 hsb.varlikportfolio.com
 hsbcrewards-homesa.info
 hsbcrewards-homesb.info
@@ -11436,6 +11440,7 @@ info-akb.online
 info-referanslinki.com
 infobireysel.online
 infocontablidades.it.com
+infofinansmenkul.com
 infomenkuldegerler.com
 infomenkuldegerler.net
 infomenkulyatirim.com
@@ -19616,6 +19621,7 @@ sahibinden-paramguvende.ilan-siparisim.online
 sahibinden-paramguvende.islemonaylatr.online
 sahibinden-paramguvende.siparis-onayim.online
 sahibinden-paramguvende.siparisim-guvenli.online
+sahibinden-paramguvende.tr-urun-detayi.online
 sahibinden-paramguvendesartlar.duckdns.org
 sahibinden-police.ozel-hizmet-islemleri.com
 sahibinden-s-paramguvende-getilan.gt.tc
@@ -22910,6 +22916,7 @@ tr-sube-isbank.ph
 tr-suwen.shop
 tr-teb-com.my-homeip.de
 tr-tekoaos.cc
+tr-urun-detayi.online
 tr-web-alisveris-get-islemler.online
 tr-web-alisveris.online
 tr-web-islemler-get-alisveris.online
