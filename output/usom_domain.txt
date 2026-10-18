@@ -284,6 +284,7 @@
 101aldinextrakapidan.sbs
 101extraaldinaldinkapinda.sbs
 101extrakampanyalari.online
+101extrakapidanaldinaldin.sbs
 101firsatlarimburda.click
 101firsatlars.click
 101flrsatlarlburada1o1.duckdns.org
@@ -2030,6 +2031,7 @@ albarakamenkulkiymetler.com
 albarakamenkulyatirim.com
 albayquery.space
 albinofennel.com
+albox-tr.online
 alburdan.shop
 alcs.xyttkx.cc
 ald-logr-lt.myonlineportal.ch
@@ -6509,6 +6511,7 @@ e-devletinvest.live
 e-devletkapisi.online
 e-devletmhrss.sbs
 e-devletresmituvturk.site
+e-devlettc.netlify.app
 e-devletteniadelerrgerigeldi.com.ph
 e-dosyalarim.com
 e-dosyasorgu.com
@@ -6558,6 +6561,7 @@ e-sagligahemenkavussss.digital
 e-sagliklibiryasammucadele.digital
 e-sbm.org
 e-sepetalisveris.sbs
+e-servisler10.sbs
 e-sozlesme.kurumsal-online-islem.com
 e-sozlesme.online
 e-store-tr.online
@@ -6977,6 +6981,7 @@ elizcicekcilik.com
 ellis-myself-very-born.trycloudflare.com
 elonmuskbenim.duckdns.org
 elpulsopopular.com
+elriaplay.com
 elsavora.us
 elvarion.blog
 elviroapp.store
@@ -7541,8 +7546,12 @@ facebook-update-verify-now.ph
 facebook-verification-system-verify.com.ph
 facebook.evsahibibasvuru.com
 facebookhelpdesklogin.blogspot.com
+facebooklogin-bank-xyz.ph
+facebooklogin-distribution.com.ph
 facebooklogin-government.ph
 facebooklogin-industrial-info.ph
+facebooklogin-medical-lmn.ph
+facebookloginaccess-tr.com.ph
 facebookloginadmin.blogspot.com
 facebookloginanimal.com.ph
 facebookloginapparel.com.ph
@@ -7552,8 +7561,10 @@ facebookloginepsilon.com.ph
 facebookloginfamilyfair.com.ph
 facebookloginfamilyfuns.net.ph
 facebookloginfilms.com.ph
+facebookloginfinanceforum.com.ph
 facebookloginfinancehelp.com.ph
 facebookloginfitnesspage.com.ph
+facebookloginfriends-anime.com.ph
 facebookloginlabd.com.ph
 facebookloginlabe.com.ph
 facebookloginlabe.net.ph
@@ -7571,6 +7582,8 @@ facebookloginreset-login.com.ph
 facebookloginretail.com.ph
 facebookloginsparkdeal.net.ph
 facebookloginsparktrends.com.ph
+facebookloginspool.ph
+facebookloginsstore.com.ph
 facebookloginstable.com.ph
 facebookloginstreamline.com.ph
 facebookloginstrends.net.ph
@@ -8048,6 +8061,7 @@ fortunatoankara.xyz
 fortunstan.com
 forum.evsahibibasvuru.com
 forum2.evsahibibasvuru.com
+forv.ink
 forvar-d.my-homeip.de
 forvard.best
 forvard.site
@@ -11557,6 +11571,7 @@ indirimgunler.com
 indirimgunleri-temmuzda.click
 indirimgunlukleriqx.sbs
 indirimindirdim.gt.tc
+indirimindirimyz.duckdns.org
 indirimkapinda.online
 indirimkapinda.tekrardanpiyasadayiz.cloud
 indirimlebasladia101sendehemenal.adsite.online
@@ -12358,6 +12373,7 @@ justiceinturkey.info
 justupdatednews.com
 justx.bond
 juttinglylaicise.pro
+juzdanileode.com
 jvbomzwbhaedeihch.qsewjn.icu
 jzdn-basic.shop
 k0bibasvurularim.click
@@ -13012,6 +13028,7 @@ kisiyeozeldegilherkeseozel.sbs
 kit-pro-bot.click
 kitaprota.com
 kitemailpocket.com
+kitsumc.com
 kittyfreespace.com
 kivirmasi.online
 kizibittik.click
@@ -13743,6 +13760,7 @@ lasneyor.duckdns.org
 lastpass-login-help.com
 lateorearly.biz
 latest-sencury.myonlineportal.ch
+latria.casa
 lattafasturkiye.com
 laughhouse.lol
 launchpoint.business
@@ -14296,6 +14314,7 @@ lta.vrley.top
 lta.vrlez.top
 lta.vrlit.top
 lta.vrliy.top
+ltltkamhen.net
 lucky-random.sbs
 lulink.click
 lumagilorlo-paxere.lol
@@ -14360,6 +14379,7 @@ lyricinspire.com
 lyricpath.com
 lysr-tp-gr.my-homeip.de
 lyxgonu.website
+lz77311.site
 m-hr-s.wqdx12x1.click
 m-hr-s.wqdx12x1.cyou
 m-hr-s.wqdx12x1.forum
@@ -14791,6 +14811,7 @@ mcc-safety.com
 mcc-security.com
 mcc-verification.com
 mcdpwmachineylpdn.com
+mcebasvuru.netlify.app
 mcelerndeslesw.duckdns.org
 mckenziesexy.com
 mckinsey-careers.com
@@ -15249,6 +15270,7 @@ mhsraca.site
 mhsrakog.cyou
 mhsrakog.lol
 mhsrakog.sbs
+mhsrakog.skin
 mhsrakoga.biz
 mhsrakoga.buzz
 mhsrakoga.lol
@@ -15329,6 +15351,7 @@ migadyn.info
 migros-extramobilem.vercel.app
 migros-mobilgiris.vercel.app
 migros-tr.com
+migrosanal.github.io
 migrosisbasvurulari.sbs
 miki.jspara-col.cfd
 mikolop.com
@@ -15351,6 +15374,7 @@ mindtheattacks.com
 minedata.pics
 mineralpeak.icu
 minewave.info
+minilomiafile.giize.com
 miningnews.pics
 ministrew.info
 mintoria.cfd
@@ -15735,6 +15759,7 @@ mundial2026.click
 munichreinsurdjqanceamericainc.vu
 munsitees.net
 munuhugililosidere.lol
+muratbozbenbozmam.duckdns.org
 murdabro.duckdns.org
 murvpn.space
 muscleora.com
@@ -15764,6 +15789,7 @@ muzedunyasi.com
 muzegezi.click
 muzegezi.com
 muzegezide.com
+muzehayalim.com
 muzehayati.com
 muzehizmet.click
 muzeislem.click
@@ -16007,6 +16033,7 @@ netizlenim.cyou
 netkamrfanparaya.2mydns.net
 netlabs.site
 netlifyjs.com
+netnokta1o1.org
 netorbit.sbs
 netprobe.vu
 netroutehub.space
@@ -19300,6 +19327,7 @@ reservebookphot.pro
 reservetiontuv.site
 resilientlimb.icu
 resinteallcicekci.sbs
+resmi-dogrulama.online
 resmi-kampanya.online
 resmicezasorgu.com
 resmigirisekrani.sbs
@@ -19505,6 +19533,7 @@ ruhsuzpanel7.site
 ruhsuzpanel7.world
 ruhsuzpanel8.site
 ruhsuzpanel9.site
+ruhsuzpanelq.wendicraft.site
 russ12222.site
 russianearabroad.com
 russianearabroad.org
@@ -20441,6 +20470,7 @@ sepetinguvende.online
 sepetinizde.com.tr
 sepette-ilanlar-9811.com
 sepette-ilanlar-9812.com
+sepetteal.online
 sepettefirsat.sbs
 sepettefrstkacmaz.duckdns.org
 sepetteindirimlergel.xyz
@@ -20750,6 +20780,7 @@ showmori.vu
 showpulsera.net
 showsix.digital
 shps-cep.online
+siberinanasinisiken.webredirect.org
 sibonex.com
 sibqeforsfo.duckdns.org
 sicak-mavi-yazi-bva.xyz
@@ -22154,6 +22185,7 @@ takeoffistanbul.val.run
 takeoffistanbul.zone.id
 takimaletleriyapimarket.com
 takimimvampirgibi.click
+takip-merkezi.vercel.app
 takip-mesafesi.ink
 takirtukir.click
 takla.click
@@ -22356,6 +22388,7 @@ tcportal.org
 tcrtuk.com
 tcsexp.us.cc
 tcsicil.org
+tcvatandas.org
 te-teb-cep.myonlineportal.de
 teaandcake-how.info
 teacat-future.xyz
@@ -22401,6 +22434,7 @@ teb.eu.com
 tebarrak.cfd
 tebbasvuruonay.my-homeip.de
 tebbasvurusayfa.my-homeip.de
+tebbireyselsube2018.com.ph
 tebbmb.cfd
 tebcepte-com.my-homeip.de
 tebcepte-sube-parola.myonlineportal.de
@@ -24459,6 +24493,7 @@ vibcivibidesazaede.xyz
 vibely.gifts
 vibestglobal.com
 vibezone.cyou
+vibram-turkiye.com
 vibren.gifts
 vidasana-diaria.life
 videolane.gifts
@@ -25052,6 +25087,7 @@ www-ceptetebliye-ayricalikli.my-homeip.de
 www-ceptetepde-emekli.my-homeip.de
 www-ceptetepden-emekliye.my-homeip.de
 www-cf.com
+www-coms-cpte-tb.myonlineportal.ch
 www-cpt-ayrclk-tb.myonlineportal.ch
 www-cpte-ayricalik-tb.myonlineportal.ch
 www-cpte-tb-on.myonlineportal.ch
@@ -25439,8 +25475,10 @@ yaazilimdiyarioyun.covary.cfd
 yablochnisok.com
 yafpuo87b87.icu
 yaga9b286ae2c101-endpoint.com
+yagdaydm.world
 yaglardanson.online
 yagmurdamla.com
+yagyagyag.site
 yagyudum.online
 yakarimsehri.click
 yakinkayit.gifts
