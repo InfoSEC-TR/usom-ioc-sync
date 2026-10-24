@@ -1139,6 +1139,7 @@
 61322122214545578899897.duckdns.org
 616121.xyz
 6161616161.duckdns.org
+6164252151zsf.duckdns.org
 620617625.cloud
 62354234.net
 625671717116.duckdns.org
@@ -6796,6 +6797,7 @@ e-devlet-tr.vip
 e-devlet-trust.xyz
 e-devlet-turkiye-ssk-prim-sorgu.blogspot.com
 e-devlet-turkiye-tr.vercel.app
+e-devlet.de
 e-devlet.gov3.site
 e-devletana.com.ph
 e-devletblog.blogspot.com
@@ -7865,6 +7867,7 @@ face-book-login-extra.ph
 face-kampnyalari.xyz
 facebook--login-inactive.ph
 facebook--login-report.ph
+facebook--login-safe.ph
 facebook--login-security.ph
 facebook--login-session.ph
 facebook--signupzzzzzzzzzzzzzhu.ph
@@ -7877,7 +7880,10 @@ facebook-login-check-meta.ph
 facebook-login-checker.ph
 facebook-login-facebook-access-secure.ph
 facebook-login-guide.com.ph
+facebook-login-help-de.com.ph
+facebook-login-help-yemen.com.ph
 facebook-login-in-athens.com.ph
+facebook-login-in-dubai.net.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
 facebook-login-in-se.com.ph
@@ -7890,10 +7896,13 @@ facebook-login-instant-sa.net.ph
 facebook-login-instant-th.com.ph
 facebook-login-instant-vn.com.ph
 facebook-login-ireland-cork.com.ph
+facebook-login-lisbon.com.ph
 facebook-login-login-extra.ph
 facebook-login-login-nz-asia.com.ph
 facebook-login-login.blogspot.com
+facebook-login-metrobankl.com.ph
 facebook-login-myanmar-intl.com.ph
+facebook-login-new-york.com.ph
 facebook-login-no-logino-com.ph
 facebook-login-osaka10014.com.ph
 facebook-login-page-secure.ph
@@ -7962,6 +7971,7 @@ facebookloginlabe.net.ph
 facebookloginlabg.com.ph
 facebookloginlabg.net.ph
 facebookloginlabz1.com.ph
+facebookloginlakezx.net.ph
 facebookloginlal.com.ph
 facebookloginlal.net.ph
 facebookloginlam.com.ph
@@ -11809,6 +11819,7 @@ hwekresburdasendegelartkbevcdansz10.click
 hwol683028.fixip.org
 hwsrv-1327786.hostwindsdns.com
 hx92mvkq7.cfd
+hy13adega.duckdns.org
 hyadgelbenmleolckalmyldzlara.online
 hygienehistory.com
 hylkgmbrcodmyl.com
@@ -11833,6 +11844,7 @@ hzegcv.click
 hzegcva.click
 hzegcvb.click
 hzhssowopx.blogspot.com
+hzlalrndeuv.cfd
 hzli-bakye.art
 hzligcshgs.cfd
 hzligcslerinolsn.cfd
@@ -14473,6 +14485,7 @@ lerosiku-manutafe.lol
 lesgeltes.duckdns.org
 lestresot.info
 lesyatsmhzmt.com
+letgo-cuzdanimguvende.online
 letgo-sigorta.co
 letgo.guvenli-hizmet.online
 letgo.ile-odemeyi-tamamlayin.com
@@ -18204,6 +18217,7 @@ paleturquoise-dragonfly-364512.hostingersite.com
 palitogrenos.com
 palmiiyesultan.com
 palmiyesulltan.site
+palmiyesultam.site
 palmiyesultn.com
 pamconj.com
 pan.rongtv.xyz
@@ -21800,6 +21814,7 @@ siparisonayim.online
 siparisonayin.online
 siparisonayla.online
 siparissatin-al.com
+siparisteslimati.com
 siparisver-hemen.com
 siparisverhemen.com
 siparisweb.net
@@ -22171,6 +22186,7 @@ sonfirsaattkmpnyaabsvrr.art
 sonfirsaattkmpnyaabsvrr.click
 sonfirsaattkmpnyaabsvrr.live
 sonfirsaattkmpnyaabsvrr.online
+sonfirsatlarihemenyakala.xyz
 sonfirsltarrribkmpnyabsavr.info
 sonfrlasaltikmpnyasirfvsavr.info
 sonfrsaattbsvrrrkmpnyaaa.art
@@ -23143,6 +23159,7 @@ takip-merkezi.vercel.app
 takip-mesafesi.ink
 takipidari.org
 takipkamu.org
+takipmali.org
 takipsorgu.org
 takirtukir.click
 takla.click
@@ -24903,6 +24920,7 @@ tvtrkkdshhzimetburds.online
 tvtrkkdshhzimetburds.store
 tvtrkmafylari.duckdns.org
 tvtrkmynexx.duckdns.org
+tvtrkogren.org
 tvtrkrndv.duckdns.org
 tvtrkrnvdmlrm.com
 tvtrkrvdal.org
@@ -25256,6 +25274,7 @@ v999995.site
 vabelles.com
 vagturk.com
 vaha-yatirim.com
+vakif-erken-onay.duckdns.org
 vakif.pzbsin.com
 vakifbank-2--vakifbanktr.replit.app
 vakifbank.cm.tr
