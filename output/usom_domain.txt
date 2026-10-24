@@ -231,6 +231,7 @@
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-alisveris-sepet-indirimleri-mobil.bireysel-shops-mobil.online
 101-extra-sadece-online-ozel-alisveris-sepeti-tr.bilgi-sepeti.online
+101-extra-sadece-online-ozel-cep-alisveris-sepet-bilgileri-tr.plus
 101-extra-sadece-online-ozel-indirim-alisveris-sepette.cepindeki-indirim.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-tr.mobilcitr.online
@@ -312,6 +313,7 @@
 1014545082504588.bounceme.net
 101aldinaldinextra.sbs
 101aldinextrakapidan.sbs
+101anindafirsatyakala.duckdns.org
 101extraaldinaldinkapinda.sbs
 101extrakampanyalari.online
 101extrakapidanaldinaldin.sbs
@@ -7194,6 +7196,7 @@ ekimayifinssmanlar.me
 ekimayifinssmanlar.net
 ekimayifinssmanlar.org.tr
 ekimayiflrsatlarl.com
+ekimdekacirilmamali.sbs
 ekimflrsatlariburada.com
 ekimlerhosgeldin.site
 ekimlerhosgeldin.store
@@ -9982,6 +9985,7 @@ haberler125421.sbs
 haberler125423.sbs
 haberler1256236.shop
 haberler12564.sbs
+haberler12644.sbs
 haberler1269315.sbs
 haberler1278945.shop
 haberler1283432.shop
@@ -11528,6 +11532,7 @@ hmnsamnsansamhsahsasnmsamn443.sbs
 hmnsanmashsnmshasnmasmhasnms.fwh.is
 hmntknlasntam.net
 hmnypdx.art
+hmnypsan.art
 hmnypsanb.art
 hmpsiburada.ph
 hmvc.ridgerenovation.com
@@ -11818,6 +11823,7 @@ hzlszsndnsmlk.com
 hzlszsndnsmlk.net
 hzlszsndnsmlk.online
 hzltasler.store
+hzrnd.cfd
 hzrndaefsnerodylebslr.com
 hzxtnoktasia.duckdns.org
 hzzlgcs.com
@@ -12113,6 +12119,7 @@ indirimligunlerretto.duckdns.org
 indirimmarketleri.click
 indirimrehberi.sbs
 indirimsaati.online
+indirimsel-tr.online
 indirimsepeti.sbs
 indirimsepetinde.com
 indirimsonfrstt.dnsup.net
@@ -15205,6 +15212,7 @@ maliyevezne.org
 maliyeveznedar.org
 maliyeveznedartalepformu.com
 maliyevezneislem.com
+maliyevezneislem.org
 malkim.com
 malkocbakie.lat
 mallora.shop
@@ -20198,6 +20206,7 @@ rndvklyal.cfd
 rndvlahzmetler.com
 rndvualmrse.cfd
 rndvuburdaalingelin.duckdns.org
+rndvuhzlmisnce.cfd
 rndvulimonunuz.lat
 rndvulrhzlica.cfd
 rndvumrs.cfd
@@ -20527,7 +20536,9 @@ saglikliozelgnlerex.webredirect.org
 sagliklisindirumarim.lol
 saglikliyizlanbizzatengot.duckdns.org
 saglikll.mooo.com
+saglikrhbr.cfd
 saglkgnlrdlyrzbrdans.forum
+saglkrnd.cfd
 sah-bindenp-ramguvende.com
 sahabet.press
 sahabetgiriss.net
@@ -22284,6 +22295,7 @@ sovaro.online
 sovbuyli.gifts
 sowixpro.tr
 soxzr300xbsvruzrt0xf423sadvc.click
+soylebisaat.duckdns.org
 sozbir-eutamot.myonlineportal.ch
 sozbir-launcher.myonlineportal.ch
 sozcuturkey.com
@@ -23299,6 +23311,7 @@ teb-ayrica.my-homeip.de
 teb-bank-promosyon-emekli.myonlineportal.ch
 teb-bank.com
 teb-bankas-login.my-homeip.com
+teb-basvuru.mobil-bankacilik.site
 teb-cepte-emekliye.my-homeip.de
 teb-com-tr-emekli-firsatlari.my-homeip.de
 teb-com-tr-emekli-promosyon.myonlineportal.de
@@ -23312,6 +23325,7 @@ teb-com-tr-promo.internet-subesi.site
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.internet-subesi.site
+teb-com-tr.mobil-bankacilik.site
 teb-com-tr.my-homeip.de
 teb-com.internet-subesi.site
 teb-com.my-homeip.de
@@ -24289,6 +24303,7 @@ trendyol.mobilsepetlerimtrservisin.online
 trendyol.mobilservisin-24.sbs
 trendyol.mobilservisler-37.sbs
 trendyol.mobilservisler-61.sbs
+trendyol.mobilservisler-77.sbs
 trendyol.my
 trendyol.servsjethizmet.online
 trendyol0-1029.l3v0.my
@@ -24847,6 +24862,7 @@ tvuttrknsy.net
 tvuturkaracmuane.web.app
 tvuturkk-ee.com
 tvvtruk.com
+tvvtrzzrrrserndvs.space
 tw-koryu.org
 tweqtqlasepttee.com
 twigoamwu.cfd
