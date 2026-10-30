@@ -16870,6 +16870,7 @@ mobilsepetlerimtralimlar.online
 mobilsepetlerimtrservis.online
 mobilsepetlerin-alimlar-1.sbs
 mobilsepetlerservisintr.online
+mobilsepetllerservisim.online
 mobilsepetllerservislerim.online
 mobilservis-43.sbs
 mobilservis-44.sbs
@@ -18038,6 +18039,7 @@ nvirandevulariniz.online
 nvirandevulariniz.space
 nvirandevularinizz.online
 nvirandevularinizz.site
+nvirandevumvar.online
 nvirandevuncep.com
 nvirandevuonline.xyz
 nvirandevutek.xyz
@@ -18645,6 +18647,7 @@ oskeyconnect.com
 oskeyregister.com
 oskeysetup.com
 oskeysync.com
+osmankinaliye.giize.com
 osmanli.portfoymenkul.com
 osmanliportfoy.app
 osmanlisorgupaneli.site
@@ -22195,7 +22198,9 @@ servis-islem-bilgi.online
 servis-islem.online
 servisalimlarin.online
 servisbilgi-tr.online
+servisepetin-10.sbs
 servisepetin-15.sbs
+servisepetin-20.sbs
 servishizmetlerin.com
 servishizmetleriniz.online
 servisinguvenli-15.sbs
@@ -22203,6 +22208,7 @@ servisinguvenli-45.sbs
 servisinguvenli-67.sbs
 servisinguvenli-68.sbs
 servisinguvenli-75.sbs
+servisinguvenli-80.sbs
 servislerinislemler.sbs
 servislerinmobil-12.sbs
 servislerjethizmetler.online
@@ -25271,6 +25277,7 @@ trendyolbasvuru.com
 trendyolexpress.lnnnnl.club
 trendyolgiftcards.com
 trendyolgifts.com
+trendyolj.com
 trendyolkleding.com
 trendyoll.my
 trendyoll.vip
