@@ -781,6 +781,7 @@
 22245112245542224554254594.xyz
 22245112245542224554254595.xyz
 22245112245542224554254597.xyz
+22245112245542224554254598.xyz
 22245112245542224554254599.xyz
 22312534123213.duckdns.org
 22888xx8888.sbs
@@ -4952,6 +4953,7 @@ bulugarese-dafure.xyz
 bulukuhurete.lat
 bulunmakta-fayda-g.myonlineportal.ch
 bumarkettebuindirimlerbitmez.xyz
+bumarkettefirsatlarhicbitmez.sbs
 bumarkettefiyatlarhepuygun.sbs
 bumarkettehergunindirimvar.xyz
 bumarketteindirimlerdurdurulamaz.xyz
@@ -6846,6 +6848,7 @@ dogubakisi.com
 dokkmark-etler.cfd
 dokter-kini.info
 doktoraix.com
+dokunurcrm.duckdns.org
 dolandiriciyakuptv.click
 dolap.e-ilan-elektronik-siparisim.com
 dolap.guvenli-hizmet.online
@@ -8181,6 +8184,7 @@ facebook--update-available.ph
 facebook-bakim.ph
 facebook-confirm-login.com.ph
 facebook-confirm-message.com.ph
+facebook-facebook-status.ph
 facebook-like-login.ph
 facebook-login-berlin-us.ph
 facebook-login-berlin20.com.ph
@@ -8199,6 +8203,7 @@ facebook-login-in-sa.com.ph
 facebook-login-in-se.com.ph
 facebook-login-in-tokyo.com.ph
 facebook-login-in-tokyo.net.ph
+facebook-login-in-ve.com.ph
 facebook-login-indonesa-intl.com.ph
 facebook-login-instant-bd.com.ph
 facebook-login-instant-de.com.ph
@@ -10729,6 +10734,7 @@ halknrtnkl.cfd
 halkolanmalko.club
 halkonay.sbs
 halkonay.tech
+halkooperatif.app
 halkrafaelo.online
 halkrafaelo.space
 halksalseyler.co
@@ -11168,6 +11174,7 @@ her.koeln-gastro.com
 herald-quiz-drunk-joke.trycloudflare.com
 herangelmek.duckdns.org
 heranheryerde-ekstra.com
+herdammhs.duckdns.org
 heregelerdes.duckdns.org
 hergetens.duckdns.org
 hergetxdeedxx.duckdns.org
@@ -12396,6 +12403,7 @@ ifadeceliskilisfsa.duckdns.org
 ifccanada.waitesguide.co
 ifonedaybetellmee.top
 ifoodgarantibbva.com.ph
+ighop.buzz
 igmc.duckdns.org
 ignara.shop
 ignara.site
@@ -16494,6 +16502,7 @@ mhrsrandevu.ink
 mhrsrandevu1182.site
 mhrsrandevu346.duckdns.org
 mhrsrandevu993.duckdns.org
+mhrsrandevual.net
 mhrsrandevualhastane.com
 mhrsrandevualhastane.online
 mhrsrandevualsanala.duckdns.org
@@ -18437,6 +18446,7 @@ onlineislemmerkezleria101.pages.dev
 onlinekgmyolgcsbrcodyn.com
 onlinekirasozlesmesi.com
 onlinekmm.com
+onlinekoopmarket.app
 onlinemagaza-karaca.vercel.app
 onlinemagazafisleri.com
 onlinemagazalar-karaca.vercel.app
@@ -21329,6 +21339,8 @@ saglikll.mooo.com
 saglikrhbr.cfd
 saglk-rhberim.cfd
 saglkgnlrdlyrzbrdans.forum
+saglkicndnvualn.cfd
+saglklmhrndy.cfd
 saglkrnd.cfd
 sah-bindenp-ramguvende.com
 sahabet.press
@@ -24284,6 +24296,7 @@ tebnetinden-girislerim.duckdns.org
 teboagoo.sbs
 tebomebolaloko.shop
 tebomebolo.cfd
+tebonline-basvuru.duckdns.org
 tebooaoakkgoolo.shop
 tebooaoloka.cfd
 tebpageinternet.my-homeip.com
@@ -24698,6 +24711,7 @@ tkisencis.net
 tkkaldgmzgnllerdervdaldm.lol
 tkkg-edvtapkon-v.online
 tkkg-edvtapkonv.online
+tkkoop-online.app
 tkkoop.vercel.app
 tkkoopalisveris.app
 tkkoopjet.com
@@ -26229,6 +26243,8 @@ vaslosalco.co
 vatandas-basvuru-islemleri.sbs
 vatandas-uyap-gov-tr-evrak-dogrulama-uyap.vercel.app
 vatandas-uyap.eu
+vatandas-uyap.sbs
+vatandas-uyapgov.sbs
 vatandasgiris.org
 vatandasgirisekranimhrsonlinegirisimiz.duckdns.org
 vatandasgirsmhrslersx.mtvleyi2026s.xyz
@@ -27075,6 +27091,7 @@ www-cpt-ayrclk-tb.myonlineportal.ch
 www-cpte-ayricalik-tb.myonlineportal.ch
 www-cpte-tb-on.myonlineportal.ch
 www-cpttb-customer-web.myonlineportal.ch
+www-ctbde-cepte-default.myonlineportal.ch
 www-detail-cptb-ayrica.myonlineportal.ch
 www-detaycepte-ayrica.myonlineportal.ch
 www-detaytb-cepte-gir.myonlineportal.ch
