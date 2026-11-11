@@ -1082,6 +1082,7 @@
 4.ddns.me
 403-forbidden.icu
 403-forbidden.sbs
+404-found.icu
 412121145441555445591.duckdns.org
 412121145441555445592.duckdns.org
 412121145441555445593.duckdns.org
@@ -4580,6 +4581,7 @@ bireybasvur.click
 bireybasvurular.click
 bireycel-pass.my-homeip.net
 bireysel-akmobil-cepte-com.duckdns.org
+bireysel-basvur.my-homeip.de
 bireysel-basvurum.com
 bireysel-bireysel-ziraat.my-homeip.de
 bireysel-cebte.my-homeip.de
@@ -5406,6 +5408,7 @@ byebyeeee.click
 byedubaicenter.duckdns.org
 bykrmznfrscrfonlin.cfd
 bylmex.com
+bylotatawod.com
 byntra.store
 byntrahubs.store
 byrmkmpn-yasi.xyz
@@ -6320,6 +6323,7 @@ convertmora.icu
 convertnexa.com
 convertro.live
 convertvanta.com
+cooingeyebrow.com
 cookie-whitelist.top
 cookiecraftr.com
 cooknest.cyou
@@ -7633,6 +7637,7 @@ eblgirndv.cfd
 ebtkceza.com
 ebtkportal.com
 ebydz.buzz
+ebypevojabizo.online
 ecbsdosya.org
 ecbskamu.org
 ecbsmaliye.org
@@ -13171,6 +13176,7 @@ ihlalgecisodemesiweb.info
 ihmal-web.click
 ihmalweb-trying.garden
 ihtiyacbasvurularsim.duckdns.org
+ihugewe.online
 iifbtk.cc
 iiixzhsldndu3dx3e.lol
 ikametrandevu-com-tr.pages.dev
@@ -13283,6 +13289,7 @@ ile-siparisver.net.tr
 ilelebetsizinle.click
 ileri-agency.myonlineportal.ch
 ileribakislar.com
+ileribakismerkezi.com
 ilerivizyonrotasi.com
 ilerleme-yaptirim-grim.myonlineportal.ch
 ileservishizmetleri.com
@@ -13925,6 +13932,7 @@ istanbulmruzgar.xyz
 istanbulombelgim.xyz
 istanbulombelgimkart.xyz
 istanbulonline.uk
+istanbulonlinetr.lol
 istanbulpropertyfund.com
 istanbulrandevutek.xyz
 istanbulrandevvuu.xyz
@@ -14767,6 +14775,7 @@ kecs66415.site
 ked2l10tklevhcukbe.live
 kedicik.org
 kediciksorgupaneli.online
+keensalmon.com
 keepislem.22web.org
 keeplovethis.xyz
 kefalukahotelakyarlar.com
@@ -15245,6 +15254,7 @@ kmpnyapromosyonmrkzzz.info
 kmpnyasnbfrfskataa64885.online
 kmpnyasnbfrfskataa64885.pro
 kmpnybsvrrprmsyn319.info
+kmpnybsvrrprmsyn319.pro
 kmpnybsvrrrprsmynn15329.info
 kmpnybsvrrrprsmynn15329.pro
 kmpnydunyasi.duckdns.org
@@ -16199,6 +16209,7 @@ lorinex.gifts
 lorivan.gifts
 lorivexanto.world
 lorqexo.gifts
+lorveta.cyou
 loseorwin.co
 loserrq0j1sha8.com
 loskaert.duckdns.org
@@ -16682,6 +16693,7 @@ main.d1donrzp70jfih.amplifyapp.com
 main.servecounterstrike.com
 mainoptionsllc.com
 maintaining-drawings-rand-porter.trycloudflare.com
+maintenance-freelance-lunch-minister.trycloudflare.com
 makarayizbizabitakmasen.duckdns.org
 makeitupguide.com
 makemedigi.com
@@ -17017,6 +17029,7 @@ mayista-ucuzluk.org.tr
 mayistadahauygunuz.shop
 mayistakimutluluklar.com
 mayistamutluyuz.com
+mayte.pro
 mazi-web.myonlineportal.ch
 mbackend-mdye.onrender.com
 mbbgvchjhsax.sbs
@@ -17762,6 +17775,7 @@ mobiildeislemlerim.duckdns.org
 mobil-banka.teb.com.se
 mobil-basvuru-talep.vercel.app
 mobil-bireysel-cep.my-homeip.de
+mobil-c-e-p-t-e-t-e-b-kampanya.my-homeip.de
 mobil-cep-online-tr.site
 mobil-cep-ozel.online
 mobil-cep-shop-tr.sbs
@@ -19718,6 +19732,7 @@ osymodemeekrani.xyz
 otaupdate.szbboys.com
 otaviofritzen.online
 otcast.pics
+otelomysuj.online
 otoaracteoglion.org
 otoavs.com
 otoavsfilo.com
@@ -23050,6 +23065,8 @@ saydanis.click
 saydimsenikalbime.duckdns.org
 sayfadakal.duckdns.org
 sayginbelgelendirme.com
+sayinlaroil-tr.com
+sayinlaroil.com
 sazan.city
 sbelnlcan.duckdns.org
 sbendekealsldjnsnkanprnauso23r9248353984985.click
@@ -23135,6 +23152,7 @@ secupd.cfd
 secure-dns-hub.com
 secure-docs.liveoakfarmsllc.net
 secure-docs.lvborses.net
+secure-facebook-update-system.ph
 secure-imagehub.info
 secure-passkey.com
 secure-tr.online
@@ -23239,6 +23257,7 @@ sellectum.com
 sellmaxim.digital
 sellnightcare.com
 selmbngldmbrndns.live
+selnora.cyou
 selsandannda.com
 selselican.co
 selunari.cfd
@@ -27014,6 +27033,7 @@ turkiyepetrolleri-yatirim.com
 turkiyepetrolleri.pro
 turkiyepetrolleri.shop
 turkiyerotasi.com
+turkiyes.xyz
 turkiyesesi.com
 turkiyesignal.com
 turkiyesigorta.com.ph
@@ -27023,6 +27043,7 @@ turkiyeyatirim.xyz
 turkiyeyatirimpro.com
 turklye.org
 turkmotosiklet.com
+turknow.online
 turknw.com
 turkpatent-gov-tr.com
 turkpatentkurumsal.com
@@ -27042,6 +27063,7 @@ turkticaretbankasi.org.ph
 turktoday.blog
 turline.xyz
 turmira.gifts
+turna-tr.com
 turnclass.xyz
 turnervault.net
 turnkeyaiagents.com
@@ -27763,6 +27785,7 @@ velunori.top
 velvanto.shop
 velxi.shop
 velxo.xyz
+velzora.cyou
 vemobillegirislimite.xyz
 venarel.gifts
 vendora.bond
@@ -28711,6 +28734,7 @@ www155-polisi.online
 www221x23241.duckdns.org
 wwwaww.sbs
 wwwbilgilendirmeniz.revise.sbs
+wwwbnq.sannevanommen.nl
 wwwdhl-parcel.dffbeauty.com.au
 wwwl55-polisi.online
 wwwmartfirsatlarimizqnbfinansbankcom.ph
